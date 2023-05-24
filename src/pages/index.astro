@@ -14,7 +14,7 @@ export async function getStaticPaths() {
     {
       coins.map((coin) => (
         <li>
-          <a href={`/coins/${coin.id}`}>
+          <a href={`/coin-collection/coins/${coin.id}`}>
             <img
               class="w-52 h-52 object-cover rounded-lg border"
               src={coin.images.front}
