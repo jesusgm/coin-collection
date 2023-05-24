@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Moneda 1",
+    "text": "Esta es la moneda 1",
+    "images": {
+      "front": "/coin-images/1-f.jpg",
+      "back": "/coin-images/1-b.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Moneda 2",
+    "text": "Esta es la moneda 2",
+    "images": {
+      "front": "/coin-images/1-f.jpg",
+      "back": "/coin-images/1-b.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Moneda 3",
+    "text": "Esta es la moneda 3",
+    "images": {
+      "front": "/coin-images/1-f.jpg",
+      "back": "/coin-images/1-b.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Moneda 4",
+    "text": "Esta es la moneda 4",
+    "images": {
+      "front": "/coin-images/1-f.jpg",
+      "back": "/coin-images/1-b.jpg"
+    }
+  }
+]

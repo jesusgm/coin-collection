@@ -1,0 +1,29 @@
+---
+import Layout from "../../layouts/index.astro";
+import coins from "../../data/coins.json";
+
+export async function getStaticPaths() {
+  return coins.map(({ id, title, text, images }) => {
+    return {
+      params: { id },
+      props: { title, text, images },
+    };
+  });
+}
+
+const { id, title, text, images } = Astro.props;
+---
+
+<Layout>
+  <main>
+    <h1>{title}</h1>
+    <a href="/">Atrás</a>
+    <p>{id} - {text}</p>
+
+    <p>Images:</p>
+    <div class="w-full flex flex-row">
+      <img class="h-96" src={images.front} alt="Front image" />
+      <img class="h-96" src={images.back} alt="Back image" />
+    </div>
+  </main>
+</Layout>
