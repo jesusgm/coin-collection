@@ -31,8 +31,8 @@ const parseCSV = async () => {
           const id = values[index];
           coin.id = id;
           coin.images = {
-            front: `/coin-images/moneda${id}_A.jpg`,
-            back: `/coin-images/moneda${id}_B.jpg`,
+            front: `/coin-collection/coin-images/moneda${id}_A.jpg`,
+            back: `/coin-collection/coin-images/moneda${id}_B.jpg`,
           };
           break;
         case "Foto Anverso":
@@ -56,35 +56,6 @@ const parseCSV = async () => {
     });
 
     return coin;
-
-    // return headers.reduce((obj, header, index) => {
-    //   console.log({ header, value: values[index], obj });
-    //   switch (header) {
-    //     case "id":
-    //       const id = values[index];
-    //       obj.id = values[index];
-    //       // obj.images = {
-    //       // front: `moneda${id}_A.jpg`,
-    //       // back: `moneda${id}_B.jpg`,
-    //       // };
-    //       break;
-    //     case "Foto Anverso":
-    //     case "Foto reverso":
-    //       break;
-    //     case "País/Origen":
-    //       obj.country = values[index];
-    //       break;
-    //     case "nombre moneda":
-    //       obj.name = values[index];
-    //       break;
-    //     case "año":
-    //       obj.year = values[index];
-    //       break;
-    //     default:
-    //       obj[header] = values[index];
-    //       break;
-    //   }
-    // }, {});
   });
 
   return data;

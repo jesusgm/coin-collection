@@ -2,8 +2,8 @@
   {
     "id": "1",
     "images": {
-      "front": "/coin-images/moneda1_A.jpg",
-      "back": "/coin-images/moneda1_B.jpg"
+      "front": "/coin-collection/coin-images/moneda1_A.jpg",
+      "back": "/coin-collection/coin-images/moneda1_B.jpg"
     },
     "country": "Alemania",
     "year": "1943",
@@ -15,8 +15,8 @@
   {
     "id": "2",
     "images": {
-      "front": "/coin-images/moneda2_A.jpg",
-      "back": "/coin-images/moneda2_B.jpg"
+      "front": "/coin-collection/coin-images/moneda2_A.jpg",
+      "back": "/coin-collection/coin-images/moneda2_B.jpg"
     },
     "country": "Alemania",
     "year": "1968",
@@ -28,8 +28,8 @@
   {
     "id": "3",
     "images": {
-      "front": "/coin-images/moneda3_A.jpg",
-      "back": "/coin-images/moneda3_B.jpg"
+      "front": "/coin-collection/coin-images/moneda3_A.jpg",
+      "back": "/coin-collection/coin-images/moneda3_B.jpg"
     },
     "country": "Alemania",
     "year": "1963",
@@ -41,8 +41,8 @@
   {
     "id": "4",
     "images": {
-      "front": "/coin-images/moneda4_A.jpg",
-      "back": "/coin-images/moneda4_B.jpg"
+      "front": "/coin-collection/coin-images/moneda4_A.jpg",
+      "back": "/coin-collection/coin-images/moneda4_B.jpg"
     },
     "country": "Alemania",
     "year": "1979",
@@ -54,8 +54,8 @@
   {
     "id": "5",
     "images": {
-      "front": "/coin-images/moneda5_A.jpg",
-      "back": "/coin-images/moneda5_B.jpg"
+      "front": "/coin-collection/coin-images/moneda5_A.jpg",
+      "back": "/coin-collection/coin-images/moneda5_B.jpg"
     },
     "country": "Alemania",
     "year": "1950",
@@ -67,8 +67,8 @@
   {
     "id": "6",
     "images": {
-      "front": "/coin-images/moneda6_A.jpg",
-      "back": "/coin-images/moneda6_B.jpg"
+      "front": "/coin-collection/coin-images/moneda6_A.jpg",
+      "back": "/coin-collection/coin-images/moneda6_B.jpg"
     },
     "country": "Alemania",
     "year": "1971",
@@ -80,8 +80,8 @@
   {
     "id": "7",
     "images": {
-      "front": "/coin-images/moneda7_A.jpg",
-      "back": "/coin-images/moneda7_B.jpg"
+      "front": "/coin-collection/coin-images/moneda7_A.jpg",
+      "back": "/coin-collection/coin-images/moneda7_B.jpg"
     },
     "country": "Alemania",
     "year": "1963",
@@ -93,8 +93,8 @@
   {
     "id": "8",
     "images": {
-      "front": "/coin-images/moneda8_A.jpg",
-      "back": "/coin-images/moneda8_B.jpg"
+      "front": "/coin-collection/coin-images/moneda8_A.jpg",
+      "back": "/coin-collection/coin-images/moneda8_B.jpg"
     },
     "country": "Alemania",
     "year": "1969",
@@ -106,8 +106,8 @@
   {
     "id": "9",
     "images": {
-      "front": "/coin-images/moneda9_A.jpg",
-      "back": "/coin-images/moneda9_B.jpg"
+      "front": "/coin-collection/coin-images/moneda9_A.jpg",
+      "back": "/coin-collection/coin-images/moneda9_B.jpg"
     },
     "country": "Alemania",
     "year": "1956",
