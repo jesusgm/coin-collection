@@ -1,19 +1,42 @@
 ---
 import Layout from "../layouts/index.astro";
+
 import coins from "../data/coins.json";
+import countries from "../data/countries.json";
+import years from "../data/years.json";
 
 export async function getStaticPaths() {
   return {
-    props: { coins },
+    props: { coins, countries, years },
   };
 }
 ---
 
 <Layout>
-  <ul class="flex flex-row gap-2">
+  <div>
+    <h3>Filtrar por años</h3>
+    <ul id="filter-year" class="flex flex-row gap-2">
+      {
+        years.map((year) => (
+          <li class="cursor-pointer border pt-2 pb-2 pl-4 pr-4 rounded-sm">
+            {year}{" "}
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+
+  <div>
+    <h3>Filtrar por paises</h3>
+    <ul id="country-filter" class="flex flex-row gap-2">
+      {countries.map((country) => <li>{country}</li>)}
+    </ul>
+  </div>
+
+  <ul id="coin-container" class="flex flex-row gap-2">
     {
       coins.map((coin) => (
-        <li>
+        <li data-year={coin.year} data-country={coin.country}>
           <a href={`/coin-collection/coins/${coin.id}`}>
             <img
               class="w-52 h-52 object-cover rounded-lg border"
@@ -25,3 +48,31 @@ export async function getStaticPaths() {
     }
   </ul>
 </Layout>
+
+<script>
+  const coinContainer = document.getElementById("coin-container");
+  const yearfilter = document.getElementById("filter-year");
+  const countryfilter = document.getElementById("country-filter");
+
+  const filters = {
+    year: [],
+    country: [],
+  };
+
+  function updateUI() {
+    console.log(filters);
+  }
+
+  yearfilter.querySelectorAll("li").forEach((li) => {
+    li.addEventListener("click", (e) => {
+      e.preventDefault();
+      li.classList.toggle("bg-gray-200");
+      const year = li.innerText;
+      filters.year.includes(year)
+        ? filters.year.splice(filters.year.indexOf(year), 1)
+        : filters.year.push(year);
+
+      updateUI();
+    });
+  });
+</script>

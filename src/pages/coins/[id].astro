@@ -3,22 +3,23 @@ import Layout from "../../layouts/index.astro";
 import coins from "../../data/coins.json";
 
 export async function getStaticPaths() {
-  return coins.map(({ id, title, text, images }) => {
+  return coins.map(({ id, year, country, name, value, images }) => {
     return {
       params: { id },
-      props: { title, text, images },
+      props: { year, country, name, value, images },
     };
   });
 }
 
-const { id, title, text, images } = Astro.props;
+const { year, country, name, value, images } = Astro.props;
 ---
 
 <Layout>
   <main>
-    <h1>{title}</h1>
     <a href="/coin-collection/">Atrás</a>
-    <p>{id} - {text}</p>
+    <h1>Name: {value} {name}</h1>
+    <p>Year: {year}</p>
+    <p>Country: {country}</p>
 
     <p>Images:</p>
     <div class="w-full flex flex-row">

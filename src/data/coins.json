@@ -1,38 +1,119 @@
 [
   {
-    "id": 1,
-    "title": "Moneda 1",
-    "text": "Esta es la moneda 1",
+    "id": "1",
     "images": {
-      "front": "/coin-collection/coin-images/1-f.jpg",
-      "back": "/coin-collection/coin-images/1-b.jpg"
-    }
+      "front": "/coin-images/moneda1_A.jpg",
+      "back": "/coin-images/moneda1_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1943",
+    "value": "1",
+    "cantidad": "1",
+    "name": "Reichspennig",
+    "otros": "III Reich"
   },
   {
-    "id": 2,
-    "title": "Moneda 2",
-    "text": "Esta es la moneda 2",
+    "id": "2",
     "images": {
-      "front": "/coin-collection/coin-images/1-f.jpg",
-      "back": "/coin-collection/coin-images/1-b.jpg"
-    }
+      "front": "/coin-images/moneda2_A.jpg",
+      "back": "/coin-images/moneda2_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1968",
+    "value": "1",
+    "cantidad": "1",
+    "name": "Pfenning",
+    "otros": "RFA"
   },
   {
-    "id": 3,
-    "title": "Moneda 3",
-    "text": "Esta es la moneda 3",
+    "id": "3",
     "images": {
-      "front": "/coin-collection/coin-images/1-f.jpg",
-      "back": "/coin-collection/coin-images/1-b.jpg"
-    }
+      "front": "/coin-images/moneda3_A.jpg",
+      "back": "/coin-images/moneda3_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1963",
+    "value": "1",
+    "cantidad": "1",
+    "name": "Pfenning",
+    "otros": "RDA"
   },
   {
-    "id": 4,
-    "title": "Moneda 4",
-    "text": "Esta es la moneda 4",
+    "id": "4",
     "images": {
-      "front": "/coin-collection/coin-images/1-f.jpg",
-      "back": "/coin-collection/coin-images/1-b.jpg"
-    }
+      "front": "/coin-images/moneda4_A.jpg",
+      "back": "/coin-images/moneda4_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1979",
+    "value": "2",
+    "cantidad": "2",
+    "name": "Pfenning",
+    "otros": "RFA"
+  },
+  {
+    "id": "5",
+    "images": {
+      "front": "/coin-images/moneda5_A.jpg",
+      "back": "/coin-images/moneda5_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1950",
+    "value": "5",
+    "cantidad": "5",
+    "name": "Pfenning",
+    "otros": "RFA"
+  },
+  {
+    "id": "6",
+    "images": {
+      "front": "/coin-images/moneda6_A.jpg",
+      "back": "/coin-images/moneda6_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1971",
+    "value": "10",
+    "cantidad": "10",
+    "name": "Pfenning",
+    "otros": "RFA"
+  },
+  {
+    "id": "7",
+    "images": {
+      "front": "/coin-images/moneda7_A.jpg",
+      "back": "/coin-images/moneda7_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1963",
+    "value": "10",
+    "cantidad": "10",
+    "name": "Pfenning",
+    "otros": "RDA"
+  },
+  {
+    "id": "8",
+    "images": {
+      "front": "/coin-images/moneda8_A.jpg",
+      "back": "/coin-images/moneda8_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1969",
+    "value": "20",
+    "cantidad": "20",
+    "name": "Pfenning",
+    "otros": "RDA"
+  },
+  {
+    "id": "9",
+    "images": {
+      "front": "/coin-images/moneda9_A.jpg",
+      "back": "/coin-images/moneda9_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1956",
+    "value": "1",
+    "cantidad": "1",
+    "name": "Mark",
+    "otros": "RFA"
   }
 ]
