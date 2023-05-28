@@ -8,19 +8,17 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
-    <header class="flex justify-between flex-row">
-      <h1 class="text-4xl">
-        <a href="/coin-collection/">Monedas</a>
-      </h1>
-      <nav>
-        <a href="/coin-collection/coins/1">Moneda 1</a>
-        <a href="/coin-collection/coins/2">Moneda 2</a>
-        <a href="/coin-collection/coins/3">Moneda 3</a>
-      </nav>
+    <header>
+      <div class="container flex justify-between flex-row m-auto">
+        <h1 class="text-4xl">
+          <a href="/coin-collection/">Monedas</a>
+        </h1>
+      </div>
     </header>
-    <h1>{title}</h1>
-    <article>
-      <slot />
-    </article>
+    <main class="container m-auto">
+      <article>
+        <slot slot="main" />
+      </article>
+    </main>
   </body>
 </html>
