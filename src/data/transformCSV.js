@@ -4,7 +4,6 @@ import { fileURLToPath } from "node:url";
 
 const __filename = fileURLToPath(import.meta.url);
 
-const CSV_FILENAME = "inventario_monedas.csv";
 const DATA_PATH = `${path.dirname(__filename)}`;
 const CSV_PATH = `${DATA_PATH}/csv`;
 
@@ -13,8 +12,17 @@ const parseCSVOptions = {
   endofline: "\n",
 };
 
+const getCSVFiles = async () => {
+  const files = await fs.readdir(CSV_PATH);
+  return files.filter((file) => file.endsWith(".csv"));
+};
+
 const parseCSV = async () => {
-  const csv = await fs.readFile(`${CSV_PATH}/${CSV_FILENAME}`, "utf-8");
+  const [csvFilename] = await getCSVFiles();
+
+  const fileFullPath = `${CSV_PATH}/${csvFilename}`;
+
+  const csv = await fs.readFile(fileFullPath, "utf-8");
 
   const lines = csv.split(parseCSVOptions.endofline);
 
