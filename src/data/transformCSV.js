@@ -58,7 +58,7 @@ const parseCSV = async () => {
         case "otros":
           coin.other = values[index];
         default:
-          coin[header] = values[index];
+          //coin[header] = values[index];
           break;
       }
     });

@@ -6,7 +6,7 @@ import countries from "../data/countries.json";
 import years from "../data/years.json";
 import YearsFilters from "../components/filters/YearsFilters.astro";
 import CountryFilters from "../components/filters/CountryFilters.astro";
-import CoinList from "../components/CoinList.astro";
+import CoinList from "../components/CoinList";
 
 export async function getStaticPaths() {
   return {
@@ -21,7 +21,7 @@ const coinContainerId = "coin-container";
   <YearsFilters years={years} />
   <CountryFilters countries={countries} />
 
-  <CoinList coinContainerId={coinContainerId} coins={coins} />
+  <CoinList coinContainerId={coinContainerId} coins={coins} client:visible />
 </Layout>
 
 <script define:vars={{ coinContainerId }}>
