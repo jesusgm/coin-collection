@@ -2,6 +2,17 @@
 import Filters from "./index.astro";
 
 const { countries } = Astro.props;
+
+const countryFilterValues = countries.map((country) => {
+  return {
+    value: country,
+    label: country,
+  };
+});
 ---
 
-<Filters name="country" values={countries} title="Filtrar por paises" />
+<Filters
+  name="country"
+  values={countryFilterValues}
+  title="Filtrar por paises"
+/>

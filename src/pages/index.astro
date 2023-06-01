@@ -23,6 +23,7 @@ const coinContainerId = "coin-container";
 
   <CoinList coinContainerId={coinContainerId} coins={coins} />
 </Layout>
+
 <script define:vars={{ coinContainerId }}>
   const filters = Object.fromEntries(
     new URLSearchParams(window.location.search)
@@ -33,8 +34,6 @@ const coinContainerId = "coin-container";
   coinContainer.querySelectorAll("li").forEach((coinContainer) => {
     const year = coinContainer.dataset.year;
     const country = coinContainer.dataset.country;
-
-    console.log(filters.year, year);
 
     if (filters.year && !filters.year.includes(year)) {
       coinContainer.style.display = "none";
