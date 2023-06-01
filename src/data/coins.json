@@ -7,7 +7,8 @@
     },
     "country": "Alemania",
     "year": "1943",
-    "value": "1",
+    "value": 1,
+    "other": "III Reich",
     "cantidad": "1",
     "name": "Reichspennig",
     "otros": "III Reich"
@@ -20,7 +21,8 @@
     },
     "country": "Alemania",
     "year": "1968",
-    "value": "1",
+    "value": 1,
+    "other": "RFA",
     "cantidad": "1",
     "name": "Pfenning",
     "otros": "RFA"
@@ -33,7 +35,8 @@
     },
     "country": "Alemania",
     "year": "1963",
-    "value": "1",
+    "value": 1,
+    "other": "RDA",
     "cantidad": "1",
     "name": "Pfenning",
     "otros": "RDA"
@@ -46,7 +49,8 @@
     },
     "country": "Alemania",
     "year": "1979",
-    "value": "2",
+    "value": 2,
+    "other": "RFA",
     "cantidad": "2",
     "name": "Pfenning",
     "otros": "RFA"
@@ -59,7 +63,8 @@
     },
     "country": "Alemania",
     "year": "1950",
-    "value": "5",
+    "value": 5,
+    "other": "RFA",
     "cantidad": "5",
     "name": "Pfenning",
     "otros": "RFA"
@@ -72,7 +77,8 @@
     },
     "country": "Alemania",
     "year": "1971",
-    "value": "10",
+    "value": 10,
+    "other": "RFA",
     "cantidad": "10",
     "name": "Pfenning",
     "otros": "RFA"
@@ -85,7 +91,8 @@
     },
     "country": "Alemania",
     "year": "1963",
-    "value": "10",
+    "value": 10,
+    "other": "RDA",
     "cantidad": "10",
     "name": "Pfenning",
     "otros": "RDA"
@@ -98,7 +105,8 @@
     },
     "country": "Alemania",
     "year": "1969",
-    "value": "20",
+    "value": 20,
+    "other": "RDA",
     "cantidad": "20",
     "name": "Pfenning",
     "otros": "RDA"
@@ -111,9 +119,738 @@
     },
     "country": "Alemania",
     "year": "1956",
-    "value": "1",
+    "value": 1,
+    "other": "RFA",
     "cantidad": "1",
     "name": "Mark",
     "otros": "RFA"
+  },
+  {
+    "id": "10",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda10_A.jpg",
+      "back": "/coin-collection/coin-images/moneda10_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1950",
+    "value": 50,
+    "other": "RFA",
+    "cantidad": "50",
+    "name": "Pfenning",
+    "otros": "RFA"
+  },
+  {
+    "id": "11",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda11_A.jpg",
+      "back": "/coin-collection/coin-images/moneda11_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1972",
+    "value": 2,
+    "other": "RFA",
+    "cantidad": "2",
+    "name": "Mark",
+    "otros": "RFA"
+  },
+  {
+    "id": "12",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda12_A.jpg",
+      "back": "/coin-collection/coin-images/moneda12_B.jpg"
+    },
+    "country": "Alemania",
+    "year": "1980",
+    "value": 2,
+    "other": "RFA",
+    "cantidad": "2",
+    "name": "Mark",
+    "otros": "RFA"
+  },
+  {
+    "id": "13",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda13_A.jpg",
+      "back": "/coin-collection/coin-images/moneda13_B.jpg"
+    },
+    "country": "UK",
+    "year": "2006",
+    "value": 1,
+    "other": "Gibraltar",
+    "cantidad": "1",
+    "name": "Penny",
+    "otros": "Gibraltar"
+  },
+  {
+    "id": "14",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda14_A.jpg",
+      "back": "/coin-collection/coin-images/moneda14_B.jpg"
+    },
+    "country": "UK",
+    "year": "1974",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "New Penny",
+    "otros": ""
+  },
+  {
+    "id": "15",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda15_A.jpg",
+      "back": "/coin-collection/coin-images/moneda15_B.jpg"
+    },
+    "country": "UK",
+    "year": "1993",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Penny",
+    "otros": ""
+  },
+  {
+    "id": "16",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda16_A.jpg",
+      "back": "/coin-collection/coin-images/moneda16_B.jpg"
+    },
+    "country": "UK",
+    "year": "1980",
+    "value": 2,
+    "other": "",
+    "cantidad": "2",
+    "name": "New Penny",
+    "otros": ""
+  },
+  {
+    "id": "17",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda17_A.jpg",
+      "back": "/coin-collection/coin-images/moneda17_B.jpg"
+    },
+    "country": "UK",
+    "year": "2007",
+    "value": 2,
+    "other": "Conmemorativa de  The Anglo- American Operation Torch 1942 ",
+    "cantidad": "2",
+    "name": "Pence",
+    "otros": "Conmemorativa de  The Anglo- American Operation Torch 1942 "
+  },
+  {
+    "id": "18",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda18_A.jpg",
+      "back": "/coin-collection/coin-images/moneda18_B.jpg"
+    },
+    "country": "UK",
+    "year": "2007",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Pence",
+    "otros": ""
+  },
+  {
+    "id": "19",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda19_A.jpg",
+      "back": "/coin-collection/coin-images/moneda19_B.jpg"
+    },
+    "country": "UK",
+    "year": "1992",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Pence",
+    "otros": ""
+  },
+  {
+    "id": "20",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda20_A.jpg",
+      "back": "/coin-collection/coin-images/moneda20_B.jpg"
+    },
+    "country": "UK",
+    "year": "2004",
+    "value": 50,
+    "other": "",
+    "cantidad": "50",
+    "name": "Pence",
+    "otros": ""
+  },
+  {
+    "id": "21",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda21_A.jpg",
+      "back": "/coin-collection/coin-images/moneda21_B.jpg"
+    },
+    "country": "UK",
+    "year": "1985",
+    "value": 1,
+    "other": "Conmemorativa de Gales",
+    "cantidad": "1",
+    "name": "Pound",
+    "otros": "Conmemorativa de Gales"
+  },
+  {
+    "id": "22",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda22_A.jpg",
+      "back": "/coin-collection/coin-images/moneda22_B.jpg"
+    },
+    "country": "UK",
+    "year": "1996",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Pound",
+    "otros": ""
+  },
+  {
+    "id": "23",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda23_A.jpg",
+      "back": "/coin-collection/coin-images/moneda23_B.jpg"
+    },
+    "country": "UK",
+    "year": "1996",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Pound",
+    "otros": ""
+  },
+  {
+    "id": "24",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda24_A.jpg",
+      "back": "/coin-collection/coin-images/moneda24_B.jpg"
+    },
+    "country": "UK",
+    "year": "2002",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Pound",
+    "otros": ""
+  },
+  {
+    "id": "25",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda25_A.jpg",
+      "back": "/coin-collection/coin-images/moneda25_B.jpg"
+    },
+    "country": "Suecia",
+    "year": "1973",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Krona",
+    "otros": ""
+  },
+  {
+    "id": "26",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda26_A.jpg",
+      "back": "/coin-collection/coin-images/moneda26_B.jpg"
+    },
+    "country": "Suecia",
+    "year": "1978",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Krona",
+    "otros": ""
+  },
+  {
+    "id": "27",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda27_A.jpg",
+      "back": "/coin-collection/coin-images/moneda27_B.jpg"
+    },
+    "country": "Grecia",
+    "year": "1954",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Lepta",
+    "otros": ""
+  },
+  {
+    "id": "28",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda28_A.jpg",
+      "back": "/coin-collection/coin-images/moneda28_B.jpg"
+    },
+    "country": "Grecia",
+    "year": "1954",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Lepta",
+    "otros": ""
+  },
+  {
+    "id": "29",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda29_A.jpg",
+      "back": "/coin-collection/coin-images/moneda29_B.jpg"
+    },
+    "country": "Grecia",
+    "year": "1966",
+    "value": 50,
+    "other": "",
+    "cantidad": "50",
+    "name": "Lepta",
+    "otros": ""
+  },
+  {
+    "id": "30",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda30_A.jpg",
+      "back": "/coin-collection/coin-images/moneda30_B.jpg"
+    },
+    "country": "Grecia",
+    "year": "1959",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Drachma",
+    "otros": ""
+  },
+  {
+    "id": "31",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda31_A.jpg",
+      "back": "/coin-collection/coin-images/moneda31_B.jpg"
+    },
+    "country": "Grecia",
+    "year": "1954",
+    "value": 2,
+    "other": "",
+    "cantidad": "2",
+    "name": "Drachmai",
+    "otros": ""
+  },
+  {
+    "id": "32",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda32_A.jpg",
+      "back": "/coin-collection/coin-images/moneda32_B.jpg"
+    },
+    "country": "Grecia",
+    "year": "1966",
+    "value": 2,
+    "other": "",
+    "cantidad": "2",
+    "name": "Drachmai",
+    "otros": ""
+  },
+  {
+    "id": "33",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda33_A.jpg",
+      "back": "/coin-collection/coin-images/moneda33_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1954",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Centavos",
+    "otros": ""
+  },
+  {
+    "id": "34",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda34_A.jpg",
+      "back": "/coin-collection/coin-images/moneda34_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1974",
+    "value": 50,
+    "other": "",
+    "cantidad": "50",
+    "name": "Centavos",
+    "otros": ""
+  },
+  {
+    "id": "35",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda35_A.jpg",
+      "back": "/coin-collection/coin-images/moneda35_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1991",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Escudo",
+    "otros": ""
+  },
+  {
+    "id": "36",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda36_A.jpg",
+      "back": "/coin-collection/coin-images/moneda36_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1981",
+    "value": 2,
+    "other": "",
+    "cantidad": "2.5",
+    "name": "Escudos",
+    "otros": ""
+  },
+  {
+    "id": "37",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda37_A.jpg",
+      "back": "/coin-collection/coin-images/moneda37_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1985",
+    "value": 5,
+    "other": "",
+    "cantidad": "5",
+    "name": "Escudos",
+    "otros": ""
+  },
+  {
+    "id": "38",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda38_A.jpg",
+      "back": "/coin-collection/coin-images/moneda38_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1991",
+    "value": 5,
+    "other": "",
+    "cantidad": "5",
+    "name": "Escudos",
+    "otros": ""
+  },
+  {
+    "id": "39",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda39_A.jpg",
+      "back": "/coin-collection/coin-images/moneda39_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1991",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Escudos",
+    "otros": ""
+  },
+  {
+    "id": "40",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda40_A.jpg",
+      "back": "/coin-collection/coin-images/moneda40_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1986",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Escudos",
+    "otros": ""
+  },
+  {
+    "id": "41",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda41_A.jpg",
+      "back": "/coin-collection/coin-images/moneda41_B.jpg"
+    },
+    "country": "Portugal",
+    "year": "1990",
+    "value": 100,
+    "other": "",
+    "cantidad": "100",
+    "name": "Escudos",
+    "otros": ""
+  },
+  {
+    "id": "42",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda42_A.jpg",
+      "back": "/coin-collection/coin-images/moneda42_B.jpg"
+    },
+    "country": "Holanda",
+    "year": "1955",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Cents",
+    "otros": ""
+  },
+  {
+    "id": "43",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda43_A.jpg",
+      "back": "/coin-collection/coin-images/moneda43_B.jpg"
+    },
+    "country": "Holanda",
+    "year": "1955",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Gulden",
+    "otros": ""
+  },
+  {
+    "id": "44",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda44_A.jpg",
+      "back": "/coin-collection/coin-images/moneda44_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1974",
+    "value": 5,
+    "other": "",
+    "cantidad": "5",
+    "name": "Centimes",
+    "otros": ""
+  },
+  {
+    "id": "45",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda45_A.jpg",
+      "back": "/coin-collection/coin-images/moneda45_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1984",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Centimes",
+    "otros": ""
+  },
+  {
+    "id": "46",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda46_A.jpg",
+      "back": "/coin-collection/coin-images/moneda46_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1981",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Centimes",
+    "otros": ""
+  },
+  {
+    "id": "47",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda47_A.jpg",
+      "back": "/coin-collection/coin-images/moneda47_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1977",
+    "value": 1,
+    "other": "",
+    "cantidad": "1.5",
+    "name": "Franc",
+    "otros": ""
+  },
+  {
+    "id": "48",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda48_A.jpg",
+      "back": "/coin-collection/coin-images/moneda48_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1944",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Franc",
+    "otros": ""
+  },
+  {
+    "id": "49",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda49_A.jpg",
+      "back": "/coin-collection/coin-images/moneda49_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1964",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Franc",
+    "otros": ""
+  },
+  {
+    "id": "50",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda50_A.jpg",
+      "back": "/coin-collection/coin-images/moneda50_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1945",
+    "value": 2,
+    "other": "",
+    "cantidad": "2",
+    "name": "Francs",
+    "otros": ""
+  },
+  {
+    "id": "51",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda51_A.jpg",
+      "back": "/coin-collection/coin-images/moneda51_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1980",
+    "value": 2,
+    "other": "fr",
+    "cantidad": "2",
+    "name": "Francs",
+    "otros": "fr"
+  },
+  {
+    "id": "52",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda52_A.jpg",
+      "back": "/coin-collection/coin-images/moneda52_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1988",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Francs",
+    "otros": ""
+  },
+  {
+    "id": "53",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda53_A.jpg",
+      "back": "/coin-collection/coin-images/moneda53_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1952",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Francs",
+    "otros": ""
+  },
+  {
+    "id": "54",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda54_A.jpg",
+      "back": "/coin-collection/coin-images/moneda54_B.jpg"
+    },
+    "country": "Francia",
+    "year": "1955",
+    "value": 100,
+    "other": "",
+    "cantidad": "100",
+    "name": "Francs",
+    "otros": ""
+  },
+  {
+    "id": "55",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda55_A.jpg",
+      "back": "/coin-collection/coin-images/moneda55_B.jpg"
+    },
+    "country": "Suiza",
+    "year": "1985",
+    "value": 5,
+    "other": "",
+    "cantidad": "5",
+    "name": "Rappen",
+    "otros": ""
+  },
+  {
+    "id": "56",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda56_A.jpg",
+      "back": "/coin-collection/coin-images/moneda56_B.jpg"
+    },
+    "country": "Suiza",
+    "year": "1968",
+    "value": 5,
+    "other": "",
+    "cantidad": "5",
+    "name": "Rappen",
+    "otros": ""
+  },
+  {
+    "id": "57",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda57_A.jpg",
+      "back": "/coin-collection/coin-images/moneda57_B.jpg"
+    },
+    "country": "Suiza",
+    "year": "1959",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Rappen",
+    "otros": ""
+  },
+  {
+    "id": "58",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda58_A.jpg",
+      "back": "/coin-collection/coin-images/moneda58_B.jpg"
+    },
+    "country": "Suiza",
+    "year": "1981",
+    "value": 20,
+    "other": "",
+    "cantidad": "20",
+    "name": "Rappen",
+    "otros": ""
+  },
+  {
+    "id": "59",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda59_A.jpg",
+      "back": "/coin-collection/coin-images/moneda59_B.jpg"
+    },
+    "country": "Suiza",
+    "year": "1950",
+    "value": 1,
+    "other": "",
+    "cantidad": "1.5",
+    "name": "Franc",
+    "otros": ""
+  },
+  {
+    "id": "60",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda60_A.jpg",
+      "back": "/coin-collection/coin-images/moneda60_B.jpg"
+    },
+    "country": "Suiza",
+    "year": "1988",
+    "value": 1,
+    "other": "",
+    "cantidad": "1",
+    "name": "Franc",
+    "otros": ""
+  },
+  {
+    "id": "61",
+    "images": {
+      "front": "/coin-collection/coin-images/moneda61_A.jpg",
+      "back": "/coin-collection/coin-images/moneda61_B.jpg"
+    },
+    "country": "Austria",
+    "year": "1979",
+    "value": 10,
+    "other": "",
+    "cantidad": "10",
+    "name": "Groschen",
+    "otros": ""
   }
 ]

@@ -34,7 +34,7 @@ const parseCSV = async () => {
     const coin = {};
 
     headers.forEach((header, index) => {
-      switch (header) {
+      switch (header.trim()) {
         case "id":
           const id = values[index];
           coin.id = id;
@@ -43,30 +43,32 @@ const parseCSV = async () => {
             back: `/coin-collection/coin-images/moneda${id}_B.jpg`,
           };
           break;
-        case "Foto Anverso":
-        case "Foto reverso":
-          break;
-        case "País/Origen":
+
+        case "pais":
           coin.country = values[index];
           break;
-        case "nombre moneda":
+        case "nombre":
           coin.name = values[index];
           break;
         case "año":
           coin.year = values[index];
           break;
         case "cantidad":
-          coin.value = values[index];
+          coin.value = parseInt(values[index], 10);
+        case "otros":
+          coin.other = values[index];
         default:
           coin[header] = values[index];
           break;
       }
     });
 
+    if (!coin.id) return;
+
     return coin;
   });
 
-  return data;
+  return data.filter((d) => d);
 };
 
 async function writeJSON(filename, data) {
@@ -80,8 +82,6 @@ async function writeJSON(filename, data) {
     }
   );
 }
-
-console.log("Leyendo archivo CSV...");
 
 const data = await parseCSV();
 

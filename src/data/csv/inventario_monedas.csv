@@ -1,10 +1,76 @@
-id,Foto Anverso,Foto reverso,País/Origen,año,cantidad,nombre moneda,otros
-1,,,Alemania,1943,1,Reichspennig,III Reich
-2,,,Alemania,1968,1,Pfenning,RFA
-3,,,Alemania,1963,1,Pfenning,RDA
-4,,,Alemania,1979,2,Pfenning,RFA
-5,,,Alemania,1950,5,Pfenning,RFA
-6,,,Alemania,1971,10,Pfenning,RFA
-7,,,Alemania,1963,10,Pfenning,RDA
-8,,,Alemania,1969,20,Pfenning,RDA
-9,,,Alemania,1956,1,Mark,RFA
+id,pais,año,cantidad,nombre ,otros
+1,Alemania,1943,1,Reichspennig,III Reich
+2,Alemania,1968,1,Pfenning,RFA
+3,Alemania,1963,1,Pfenning,RDA
+4,Alemania,1979,2,Pfenning,RFA
+5,Alemania,1950,5,Pfenning,RFA
+6,Alemania,1971,10,Pfenning,RFA
+7,Alemania,1963,10,Pfenning,RDA
+8,Alemania,1969,20,Pfenning,RDA
+9,Alemania,1956,1,Mark,RFA
+10,Alemania,1950,50,Pfenning,RFA
+11,Alemania,1972,2,Mark,RFA
+12,Alemania,1980,2,Mark,RFA
+13,UK,2006,1,Penny,Gibraltar
+14,UK,1974,1,New Penny,
+15,UK,1993,1,Penny,
+16,UK,1980,2,New Penny,
+17,UK,2007,2,Pence,Conmemorativa de  The Anglo- American Operation Torch 1942 
+18,UK,2007,20,Pence,
+19,UK,1992,20,Pence,
+20,UK,2004,50,Pence,
+21,UK,1985,1,Pound,Conmemorativa de Gales
+22,UK,1996,1,Pound,
+23,UK,1996,1,Pound,
+24,UK,2002,1,Pound,
+25,Suecia,1973,1,Krona,
+26,Suecia,1978,1,Krona,
+27,Grecia,1954,10,Lepta,
+28,Grecia,1954,20,Lepta,
+29,Grecia,1966,50,Lepta,
+30,Grecia,1959,1,Drachma,
+31,Grecia,1954,2,Drachmai,
+32,Grecia,1966,2,Drachmai,
+33,Portugal,1954,20,Centavos,
+34,Portugal,1974,50,Centavos,
+35,Portugal,1991,1,Escudo,
+36,Portugal,1981,2.5,Escudos,
+37,Portugal,1985,5,Escudos,
+38,Portugal,1991,5,Escudos,
+39,Portugal,1991,10,Escudos,
+40,Portugal,1986,20,Escudos,
+41,Portugal,1990,100,Escudos,
+42,Holanda,1955,10,Cents,
+43,Holanda,1955,1,Gulden,
+44,Francia,1974,5,Centimes,
+45,Francia,1984,10,Centimes,
+46,Francia,1981,20,Centimes,
+47,Francia,1977,1.5,Franc,
+48,Francia,1944,1,Franc,
+49,Francia,1964,1,Franc,
+50,Francia,1945,2,Francs,
+51,Francia,1980,2,Francs,fr
+52,Francia,1988,10,Francs,
+53,Francia,1952,20,Francs,
+54,Francia,1955,100,Francs,
+55,Suiza,1985,5,Rappen,
+56,Suiza,1968,5,Rappen,
+57,Suiza,1959,10,Rappen,
+58,Suiza,1981,20,Rappen,
+59,Suiza,1950,1.5,Franc,
+60,Suiza,1988,1,Franc,
+61,Austria,1979,10,Groschen,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Alemania,1978,5,Mark,RFA
+,Alemania,1984,5,Mark,RFA - 150 aniversario de la Unión Aduanera Alemana
+,UK,1967,1,Penny,
+,Grecia,1959,10,Drachmai,
+,España,1868,2.5,Escudos,
+,Portugal,1986,20,Escudos,
+,Francia,1987,5,Francs,
