@@ -1,7 +1,18 @@
 import { useState } from "react";
 import { CoinType } from "../types/index.types";
+import Image from "next/image";
+import Link from "next/link";
 
-function Coin({ id, year, country, images, name, value, other }: CoinType) {
+function Coin({
+  id,
+  year,
+  country,
+  images,
+  name,
+  value,
+  other,
+  index,
+}: CoinType & { index: number }) {
   const [isHover, setIsHover] = useState(false);
 
   return (
@@ -12,22 +23,28 @@ function Coin({ id, year, country, images, name, value, other }: CoinType) {
       data-country={country}
       className="relative flex items-center justify-center overflow-hidden"
     >
-      <a href={`/coin-collection/coins/${id}`}>
-        <img
+      <Link href={`/coins/${id}`}>
+        <Image
           className={`backface-hidden w-52 h-52 object-cover rounded-lg border ${
             isHover ? "hidden" : ""
           }`}
           src={images.front}
-          loading="lazy"
+          width={208}
+          height={208}
+          loading={index > 18 ? "lazy" : "eager"}
+          alt={name}
         />
-        <img
+        <Image
           className={`w-52 h-52 object-cover rounded-lg border ${
             isHover ? "" : "hidden"
           }`}
           src={images.back}
-          loading="lazy"
+          width={208}
+          height={208}
+          loading={index > 18 ? "lazy" : "eager"}
+          alt={name}
         />
-      </a>
+      </Link>
       <span className="absolute top-2">
         {value} {name}
       </span>

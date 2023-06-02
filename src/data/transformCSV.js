@@ -51,7 +51,7 @@ const parseCSV = async () => {
           coin.name = values[index];
           break;
         case "año":
-          coin.year = values[index];
+          coin.year = parseInt(values[index], 10);
           break;
         case "cantidad":
           coin.value = parseInt(values[index], 10);
