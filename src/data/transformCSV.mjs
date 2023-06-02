@@ -39,8 +39,8 @@ const parseCSV = async () => {
           const id = values[index];
           coin.id = id;
           coin.images = {
-            front: `/coin-collection/coin-images/moneda${id}_A.jpg`,
-            back: `/coin-collection/coin-images/moneda${id}_B.jpg`,
+            front: `/coin-images/moneda${id}_A.jpg`,
+            back: `/coin-images/moneda${id}_B.jpg`,
           };
           break;
 

@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "buildapi": "node src/data/transformCSV.js"
+    "buildapi": "node src/data/transformCSV.mjs"
   },
   "dependencies": {
     "@types/node": "20.2.5",

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import "./globals.css";
 import { Inter } from "next/font/google";
 
@@ -22,7 +23,7 @@ export default function RootLayout({
         <header>
           <div className="container flex justify-between flex-row m-auto">
             <h1 className="text-4xl">
-              <a href="/coin-collection/">Monedas</a>
+              <Link href="/">Monedas</Link>
             </h1>
           </div>
         </header>

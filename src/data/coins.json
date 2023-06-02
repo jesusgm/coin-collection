@@ -2,8 +2,8 @@
   {
     "id": "1",
     "images": {
-      "front": "/coin-collection/coin-images/moneda1_A.jpg",
-      "back": "/coin-collection/coin-images/moneda1_B.jpg"
+      "front": "/coin-images/moneda1_A.jpg",
+      "back": "/coin-images/moneda1_B.jpg"
     },
     "country": "Alemania",
     "year": 1943,
@@ -14,8 +14,8 @@
   {
     "id": "2",
     "images": {
-      "front": "/coin-collection/coin-images/moneda2_A.jpg",
-      "back": "/coin-collection/coin-images/moneda2_B.jpg"
+      "front": "/coin-images/moneda2_A.jpg",
+      "back": "/coin-images/moneda2_B.jpg"
     },
     "country": "Alemania",
     "year": 1968,
@@ -26,8 +26,8 @@
   {
     "id": "3",
     "images": {
-      "front": "/coin-collection/coin-images/moneda3_A.jpg",
-      "back": "/coin-collection/coin-images/moneda3_B.jpg"
+      "front": "/coin-images/moneda3_A.jpg",
+      "back": "/coin-images/moneda3_B.jpg"
     },
     "country": "Alemania",
     "year": 1963,
@@ -38,8 +38,8 @@
   {
     "id": "4",
     "images": {
-      "front": "/coin-collection/coin-images/moneda4_A.jpg",
-      "back": "/coin-collection/coin-images/moneda4_B.jpg"
+      "front": "/coin-images/moneda4_A.jpg",
+      "back": "/coin-images/moneda4_B.jpg"
     },
     "country": "Alemania",
     "year": 1979,
@@ -50,8 +50,8 @@
   {
     "id": "5",
     "images": {
-      "front": "/coin-collection/coin-images/moneda5_A.jpg",
-      "back": "/coin-collection/coin-images/moneda5_B.jpg"
+      "front": "/coin-images/moneda5_A.jpg",
+      "back": "/coin-images/moneda5_B.jpg"
     },
     "country": "Alemania",
     "year": 1950,
@@ -62,8 +62,8 @@
   {
     "id": "6",
     "images": {
-      "front": "/coin-collection/coin-images/moneda6_A.jpg",
-      "back": "/coin-collection/coin-images/moneda6_B.jpg"
+      "front": "/coin-images/moneda6_A.jpg",
+      "back": "/coin-images/moneda6_B.jpg"
     },
     "country": "Alemania",
     "year": 1971,
@@ -74,8 +74,8 @@
   {
     "id": "7",
     "images": {
-      "front": "/coin-collection/coin-images/moneda7_A.jpg",
-      "back": "/coin-collection/coin-images/moneda7_B.jpg"
+      "front": "/coin-images/moneda7_A.jpg",
+      "back": "/coin-images/moneda7_B.jpg"
     },
     "country": "Alemania",
     "year": 1963,
@@ -86,8 +86,8 @@
   {
     "id": "8",
     "images": {
-      "front": "/coin-collection/coin-images/moneda8_A.jpg",
-      "back": "/coin-collection/coin-images/moneda8_B.jpg"
+      "front": "/coin-images/moneda8_A.jpg",
+      "back": "/coin-images/moneda8_B.jpg"
     },
     "country": "Alemania",
     "year": 1969,
@@ -98,8 +98,8 @@
   {
     "id": "9",
     "images": {
-      "front": "/coin-collection/coin-images/moneda9_A.jpg",
-      "back": "/coin-collection/coin-images/moneda9_B.jpg"
+      "front": "/coin-images/moneda9_A.jpg",
+      "back": "/coin-images/moneda9_B.jpg"
     },
     "country": "Alemania",
     "year": 1956,
@@ -110,8 +110,8 @@
   {
     "id": "10",
     "images": {
-      "front": "/coin-collection/coin-images/moneda10_A.jpg",
-      "back": "/coin-collection/coin-images/moneda10_B.jpg"
+      "front": "/coin-images/moneda10_A.jpg",
+      "back": "/coin-images/moneda10_B.jpg"
     },
     "country": "Alemania",
     "year": 1950,
@@ -122,8 +122,8 @@
   {
     "id": "11",
     "images": {
-      "front": "/coin-collection/coin-images/moneda11_A.jpg",
-      "back": "/coin-collection/coin-images/moneda11_B.jpg"
+      "front": "/coin-images/moneda11_A.jpg",
+      "back": "/coin-images/moneda11_B.jpg"
     },
     "country": "Alemania",
     "year": 1972,
@@ -134,8 +134,8 @@
   {
     "id": "12",
     "images": {
-      "front": "/coin-collection/coin-images/moneda12_A.jpg",
-      "back": "/coin-collection/coin-images/moneda12_B.jpg"
+      "front": "/coin-images/moneda12_A.jpg",
+      "back": "/coin-images/moneda12_B.jpg"
     },
     "country": "Alemania",
     "year": 1980,
@@ -146,8 +146,8 @@
   {
     "id": "13",
     "images": {
-      "front": "/coin-collection/coin-images/moneda13_A.jpg",
-      "back": "/coin-collection/coin-images/moneda13_B.jpg"
+      "front": "/coin-images/moneda13_A.jpg",
+      "back": "/coin-images/moneda13_B.jpg"
     },
     "country": "UK",
     "year": 2006,
@@ -158,8 +158,8 @@
   {
     "id": "14",
     "images": {
-      "front": "/coin-collection/coin-images/moneda14_A.jpg",
-      "back": "/coin-collection/coin-images/moneda14_B.jpg"
+      "front": "/coin-images/moneda14_A.jpg",
+      "back": "/coin-images/moneda14_B.jpg"
     },
     "country": "UK",
     "year": 1974,
@@ -170,8 +170,8 @@
   {
     "id": "15",
     "images": {
-      "front": "/coin-collection/coin-images/moneda15_A.jpg",
-      "back": "/coin-collection/coin-images/moneda15_B.jpg"
+      "front": "/coin-images/moneda15_A.jpg",
+      "back": "/coin-images/moneda15_B.jpg"
     },
     "country": "UK",
     "year": 1993,
@@ -182,8 +182,8 @@
   {
     "id": "16",
     "images": {
-      "front": "/coin-collection/coin-images/moneda16_A.jpg",
-      "back": "/coin-collection/coin-images/moneda16_B.jpg"
+      "front": "/coin-images/moneda16_A.jpg",
+      "back": "/coin-images/moneda16_B.jpg"
     },
     "country": "UK",
     "year": 1980,
@@ -194,8 +194,8 @@
   {
     "id": "17",
     "images": {
-      "front": "/coin-collection/coin-images/moneda17_A.jpg",
-      "back": "/coin-collection/coin-images/moneda17_B.jpg"
+      "front": "/coin-images/moneda17_A.jpg",
+      "back": "/coin-images/moneda17_B.jpg"
     },
     "country": "UK",
     "year": 2007,
@@ -206,8 +206,8 @@
   {
     "id": "18",
     "images": {
-      "front": "/coin-collection/coin-images/moneda18_A.jpg",
-      "back": "/coin-collection/coin-images/moneda18_B.jpg"
+      "front": "/coin-images/moneda18_A.jpg",
+      "back": "/coin-images/moneda18_B.jpg"
     },
     "country": "UK",
     "year": 2007,
@@ -218,8 +218,8 @@
   {
     "id": "19",
     "images": {
-      "front": "/coin-collection/coin-images/moneda19_A.jpg",
-      "back": "/coin-collection/coin-images/moneda19_B.jpg"
+      "front": "/coin-images/moneda19_A.jpg",
+      "back": "/coin-images/moneda19_B.jpg"
     },
     "country": "UK",
     "year": 1992,
@@ -230,8 +230,8 @@
   {
     "id": "20",
     "images": {
-      "front": "/coin-collection/coin-images/moneda20_A.jpg",
-      "back": "/coin-collection/coin-images/moneda20_B.jpg"
+      "front": "/coin-images/moneda20_A.jpg",
+      "back": "/coin-images/moneda20_B.jpg"
     },
     "country": "UK",
     "year": 2004,
@@ -242,8 +242,8 @@
   {
     "id": "21",
     "images": {
-      "front": "/coin-collection/coin-images/moneda21_A.jpg",
-      "back": "/coin-collection/coin-images/moneda21_B.jpg"
+      "front": "/coin-images/moneda21_A.jpg",
+      "back": "/coin-images/moneda21_B.jpg"
     },
     "country": "UK",
     "year": 1985,
@@ -254,8 +254,8 @@
   {
     "id": "22",
     "images": {
-      "front": "/coin-collection/coin-images/moneda22_A.jpg",
-      "back": "/coin-collection/coin-images/moneda22_B.jpg"
+      "front": "/coin-images/moneda22_A.jpg",
+      "back": "/coin-images/moneda22_B.jpg"
     },
     "country": "UK",
     "year": 1996,
@@ -266,8 +266,8 @@
   {
     "id": "23",
     "images": {
-      "front": "/coin-collection/coin-images/moneda23_A.jpg",
-      "back": "/coin-collection/coin-images/moneda23_B.jpg"
+      "front": "/coin-images/moneda23_A.jpg",
+      "back": "/coin-images/moneda23_B.jpg"
     },
     "country": "UK",
     "year": 1996,
@@ -278,8 +278,8 @@
   {
     "id": "24",
     "images": {
-      "front": "/coin-collection/coin-images/moneda24_A.jpg",
-      "back": "/coin-collection/coin-images/moneda24_B.jpg"
+      "front": "/coin-images/moneda24_A.jpg",
+      "back": "/coin-images/moneda24_B.jpg"
     },
     "country": "UK",
     "year": 2002,
@@ -290,8 +290,8 @@
   {
     "id": "25",
     "images": {
-      "front": "/coin-collection/coin-images/moneda25_A.jpg",
-      "back": "/coin-collection/coin-images/moneda25_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1973,
@@ -302,8 +302,8 @@
   {
     "id": "26",
     "images": {
-      "front": "/coin-collection/coin-images/moneda26_A.jpg",
-      "back": "/coin-collection/coin-images/moneda26_B.jpg"
+      "front": "/coin-images/moneda26_A.jpg",
+      "back": "/coin-images/moneda26_B.jpg"
     },
     "country": "Suecia",
     "year": 1978,
@@ -314,8 +314,8 @@
   {
     "id": "27",
     "images": {
-      "front": "/coin-collection/coin-images/moneda27_A.jpg",
-      "back": "/coin-collection/coin-images/moneda27_B.jpg"
+      "front": "/coin-images/moneda27_A.jpg",
+      "back": "/coin-images/moneda27_B.jpg"
     },
     "country": "Grecia",
     "year": 1954,
@@ -326,8 +326,8 @@
   {
     "id": "28",
     "images": {
-      "front": "/coin-collection/coin-images/moneda28_A.jpg",
-      "back": "/coin-collection/coin-images/moneda28_B.jpg"
+      "front": "/coin-images/moneda28_A.jpg",
+      "back": "/coin-images/moneda28_B.jpg"
     },
     "country": "Grecia",
     "year": 1954,
@@ -338,8 +338,8 @@
   {
     "id": "29",
     "images": {
-      "front": "/coin-collection/coin-images/moneda29_A.jpg",
-      "back": "/coin-collection/coin-images/moneda29_B.jpg"
+      "front": "/coin-images/moneda29_A.jpg",
+      "back": "/coin-images/moneda29_B.jpg"
     },
     "country": "Grecia",
     "year": 1966,
@@ -350,8 +350,8 @@
   {
     "id": "30",
     "images": {
-      "front": "/coin-collection/coin-images/moneda30_A.jpg",
-      "back": "/coin-collection/coin-images/moneda30_B.jpg"
+      "front": "/coin-images/moneda30_A.jpg",
+      "back": "/coin-images/moneda30_B.jpg"
     },
     "country": "Grecia",
     "year": 1959,
@@ -362,8 +362,8 @@
   {
     "id": "31",
     "images": {
-      "front": "/coin-collection/coin-images/moneda31_A.jpg",
-      "back": "/coin-collection/coin-images/moneda31_B.jpg"
+      "front": "/coin-images/moneda31_A.jpg",
+      "back": "/coin-images/moneda31_B.jpg"
     },
     "country": "Grecia",
     "year": 1954,
@@ -374,8 +374,8 @@
   {
     "id": "32",
     "images": {
-      "front": "/coin-collection/coin-images/moneda32_A.jpg",
-      "back": "/coin-collection/coin-images/moneda32_B.jpg"
+      "front": "/coin-images/moneda32_A.jpg",
+      "back": "/coin-images/moneda32_B.jpg"
     },
     "country": "Grecia",
     "year": 1966,
@@ -386,8 +386,8 @@
   {
     "id": "33",
     "images": {
-      "front": "/coin-collection/coin-images/moneda33_A.jpg",
-      "back": "/coin-collection/coin-images/moneda33_B.jpg"
+      "front": "/coin-images/moneda33_A.jpg",
+      "back": "/coin-images/moneda33_B.jpg"
     },
     "country": "Portugal",
     "year": 1954,
@@ -398,8 +398,8 @@
   {
     "id": "34",
     "images": {
-      "front": "/coin-collection/coin-images/moneda34_A.jpg",
-      "back": "/coin-collection/coin-images/moneda34_B.jpg"
+      "front": "/coin-images/moneda34_A.jpg",
+      "back": "/coin-images/moneda34_B.jpg"
     },
     "country": "Portugal",
     "year": 1974,
@@ -410,8 +410,8 @@
   {
     "id": "35",
     "images": {
-      "front": "/coin-collection/coin-images/moneda35_A.jpg",
-      "back": "/coin-collection/coin-images/moneda35_B.jpg"
+      "front": "/coin-images/moneda35_A.jpg",
+      "back": "/coin-images/moneda35_B.jpg"
     },
     "country": "Portugal",
     "year": 1991,
@@ -422,8 +422,8 @@
   {
     "id": "36",
     "images": {
-      "front": "/coin-collection/coin-images/moneda36_A.jpg",
-      "back": "/coin-collection/coin-images/moneda36_B.jpg"
+      "front": "/coin-images/moneda36_A.jpg",
+      "back": "/coin-images/moneda36_B.jpg"
     },
     "country": "Portugal",
     "year": 1981,
@@ -434,8 +434,8 @@
   {
     "id": "37",
     "images": {
-      "front": "/coin-collection/coin-images/moneda37_A.jpg",
-      "back": "/coin-collection/coin-images/moneda37_B.jpg"
+      "front": "/coin-images/moneda37_A.jpg",
+      "back": "/coin-images/moneda37_B.jpg"
     },
     "country": "Portugal",
     "year": 1985,
@@ -446,8 +446,8 @@
   {
     "id": "38",
     "images": {
-      "front": "/coin-collection/coin-images/moneda38_A.jpg",
-      "back": "/coin-collection/coin-images/moneda38_B.jpg"
+      "front": "/coin-images/moneda38_A.jpg",
+      "back": "/coin-images/moneda38_B.jpg"
     },
     "country": "Portugal",
     "year": 1991,
@@ -458,8 +458,8 @@
   {
     "id": "39",
     "images": {
-      "front": "/coin-collection/coin-images/moneda39_A.jpg",
-      "back": "/coin-collection/coin-images/moneda39_B.jpg"
+      "front": "/coin-images/moneda39_A.jpg",
+      "back": "/coin-images/moneda39_B.jpg"
     },
     "country": "Portugal",
     "year": 1991,
@@ -470,8 +470,8 @@
   {
     "id": "40",
     "images": {
-      "front": "/coin-collection/coin-images/moneda40_A.jpg",
-      "back": "/coin-collection/coin-images/moneda40_B.jpg"
+      "front": "/coin-images/moneda40_A.jpg",
+      "back": "/coin-images/moneda40_B.jpg"
     },
     "country": "Portugal",
     "year": 1986,
@@ -482,8 +482,8 @@
   {
     "id": "41",
     "images": {
-      "front": "/coin-collection/coin-images/moneda41_A.jpg",
-      "back": "/coin-collection/coin-images/moneda41_B.jpg"
+      "front": "/coin-images/moneda41_A.jpg",
+      "back": "/coin-images/moneda41_B.jpg"
     },
     "country": "Portugal",
     "year": 1990,
@@ -494,8 +494,8 @@
   {
     "id": "42",
     "images": {
-      "front": "/coin-collection/coin-images/moneda42_A.jpg",
-      "back": "/coin-collection/coin-images/moneda42_B.jpg"
+      "front": "/coin-images/moneda42_A.jpg",
+      "back": "/coin-images/moneda42_B.jpg"
     },
     "country": "Holanda",
     "year": 1955,
@@ -506,8 +506,8 @@
   {
     "id": "43",
     "images": {
-      "front": "/coin-collection/coin-images/moneda43_A.jpg",
-      "back": "/coin-collection/coin-images/moneda43_B.jpg"
+      "front": "/coin-images/moneda43_A.jpg",
+      "back": "/coin-images/moneda43_B.jpg"
     },
     "country": "Holanda",
     "year": 1955,
@@ -518,8 +518,8 @@
   {
     "id": "44",
     "images": {
-      "front": "/coin-collection/coin-images/moneda44_A.jpg",
-      "back": "/coin-collection/coin-images/moneda44_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1974,
@@ -530,8 +530,8 @@
   {
     "id": "45",
     "images": {
-      "front": "/coin-collection/coin-images/moneda45_A.jpg",
-      "back": "/coin-collection/coin-images/moneda45_B.jpg"
+      "front": "/coin-images/moneda45_A.jpg",
+      "back": "/coin-images/moneda45_B.jpg"
     },
     "country": "Francia",
     "year": 1984,
@@ -542,8 +542,8 @@
   {
     "id": "46",
     "images": {
-      "front": "/coin-collection/coin-images/moneda46_A.jpg",
-      "back": "/coin-collection/coin-images/moneda46_B.jpg"
+      "front": "/coin-images/moneda46_A.jpg",
+      "back": "/coin-images/moneda46_B.jpg"
     },
     "country": "Francia",
     "year": 1981,
@@ -554,8 +554,8 @@
   {
     "id": "47",
     "images": {
-      "front": "/coin-collection/coin-images/moneda47_A.jpg",
-      "back": "/coin-collection/coin-images/moneda47_B.jpg"
+      "front": "/coin-images/moneda47_A.jpg",
+      "back": "/coin-images/moneda47_B.jpg"
     },
     "country": "Francia",
     "year": 1977,
@@ -566,8 +566,8 @@
   {
     "id": "48",
     "images": {
-      "front": "/coin-collection/coin-images/moneda48_A.jpg",
-      "back": "/coin-collection/coin-images/moneda48_B.jpg"
+      "front": "/coin-images/moneda48_A.jpg",
+      "back": "/coin-images/moneda48_B.jpg"
     },
     "country": "Francia",
     "year": 1944,
@@ -578,8 +578,8 @@
   {
     "id": "49",
     "images": {
-      "front": "/coin-collection/coin-images/moneda49_A.jpg",
-      "back": "/coin-collection/coin-images/moneda49_B.jpg"
+      "front": "/coin-images/moneda49_A.jpg",
+      "back": "/coin-images/moneda49_B.jpg"
     },
     "country": "Francia",
     "year": 1964,
@@ -590,8 +590,8 @@
   {
     "id": "50",
     "images": {
-      "front": "/coin-collection/coin-images/moneda50_A.jpg",
-      "back": "/coin-collection/coin-images/moneda50_B.jpg"
+      "front": "/coin-images/moneda50_A.jpg",
+      "back": "/coin-images/moneda50_B.jpg"
     },
     "country": "Francia",
     "year": 1945,
@@ -602,8 +602,8 @@
   {
     "id": "51",
     "images": {
-      "front": "/coin-collection/coin-images/moneda51_A.jpg",
-      "back": "/coin-collection/coin-images/moneda51_B.jpg"
+      "front": "/coin-images/moneda51_A.jpg",
+      "back": "/coin-images/moneda51_B.jpg"
     },
     "country": "Francia",
     "year": 1980,
@@ -614,8 +614,8 @@
   {
     "id": "52",
     "images": {
-      "front": "/coin-collection/coin-images/moneda52_A.jpg",
-      "back": "/coin-collection/coin-images/moneda52_B.jpg"
+      "front": "/coin-images/moneda52_A.jpg",
+      "back": "/coin-images/moneda52_B.jpg"
     },
     "country": "Francia",
     "year": 1988,
@@ -626,8 +626,8 @@
   {
     "id": "53",
     "images": {
-      "front": "/coin-collection/coin-images/moneda53_A.jpg",
-      "back": "/coin-collection/coin-images/moneda53_B.jpg"
+      "front": "/coin-images/moneda53_A.jpg",
+      "back": "/coin-images/moneda53_B.jpg"
     },
     "country": "Francia",
     "year": 1952,
@@ -638,8 +638,8 @@
   {
     "id": "54",
     "images": {
-      "front": "/coin-collection/coin-images/moneda54_A.jpg",
-      "back": "/coin-collection/coin-images/moneda54_B.jpg"
+      "front": "/coin-images/moneda54_A.jpg",
+      "back": "/coin-images/moneda54_B.jpg"
     },
     "country": "Francia",
     "year": 1955,
@@ -650,8 +650,8 @@
   {
     "id": "55",
     "images": {
-      "front": "/coin-collection/coin-images/moneda55_A.jpg",
-      "back": "/coin-collection/coin-images/moneda55_B.jpg"
+      "front": "/coin-images/moneda55_A.jpg",
+      "back": "/coin-images/moneda55_B.jpg"
     },
     "country": "Suiza",
     "year": 1985,
@@ -662,8 +662,8 @@
   {
     "id": "56",
     "images": {
-      "front": "/coin-collection/coin-images/moneda56_A.jpg",
-      "back": "/coin-collection/coin-images/moneda56_B.jpg"
+      "front": "/coin-images/moneda56_A.jpg",
+      "back": "/coin-images/moneda56_B.jpg"
     },
     "country": "Suiza",
     "year": 1968,
@@ -674,8 +674,8 @@
   {
     "id": "57",
     "images": {
-      "front": "/coin-collection/coin-images/moneda57_A.jpg",
-      "back": "/coin-collection/coin-images/moneda57_B.jpg"
+      "front": "/coin-images/moneda57_A.jpg",
+      "back": "/coin-images/moneda57_B.jpg"
     },
     "country": "Suiza",
     "year": 1959,
@@ -686,8 +686,8 @@
   {
     "id": "58",
     "images": {
-      "front": "/coin-collection/coin-images/moneda58_A.jpg",
-      "back": "/coin-collection/coin-images/moneda58_B.jpg"
+      "front": "/coin-images/moneda58_A.jpg",
+      "back": "/coin-images/moneda58_B.jpg"
     },
     "country": "Suiza",
     "year": 1981,
@@ -698,8 +698,8 @@
   {
     "id": "59",
     "images": {
-      "front": "/coin-collection/coin-images/moneda59_A.jpg",
-      "back": "/coin-collection/coin-images/moneda59_B.jpg"
+      "front": "/coin-images/moneda59_A.jpg",
+      "back": "/coin-images/moneda59_B.jpg"
     },
     "country": "Suiza",
     "year": 1950,
@@ -710,8 +710,8 @@
   {
     "id": "60",
     "images": {
-      "front": "/coin-collection/coin-images/moneda60_A.jpg",
-      "back": "/coin-collection/coin-images/moneda60_B.jpg"
+      "front": "/coin-images/moneda60_A.jpg",
+      "back": "/coin-images/moneda60_B.jpg"
     },
     "country": "Suiza",
     "year": 1988,
@@ -722,8 +722,8 @@
   {
     "id": "61",
     "images": {
-      "front": "/coin-collection/coin-images/moneda61_A.jpg",
-      "back": "/coin-collection/coin-images/moneda61_B.jpg"
+      "front": "/coin-images/moneda61_A.jpg",
+      "back": "/coin-images/moneda61_B.jpg"
     },
     "country": "Austria",
     "year": 1979,
