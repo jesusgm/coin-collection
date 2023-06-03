@@ -4,11 +4,14 @@ import { useState } from "react";
 
 import CoinList from "@/components/CoinList";
 import YearRangeFilter from "@/components/filters/YearRangeFilter";
-import { FiltersType, YearRange } from "@/types/index.types";
+import { CoinType, FiltersType, YearRange } from "@/types/index.types";
 
 import coinsJson from "@/data/coins.json";
 import yearsJson from "@/data/years.json";
+import countriesJson from "@/data/countries.json";
+
 import { buildYearRanges } from "@/helpers/years";
+import CountryFilter from "@/components/filters/CountryFilter";
 
 export default function Home() {
   const [filters, setFilters] = useState<FiltersType>({
@@ -20,6 +23,12 @@ export default function Home() {
     if (filters?.yearRanges?.length > 0) {
       return filters.yearRanges.some((yr) => {
         return yr.start <= coin.year && yr.end >= coin.year;
+      });
+    }
+
+    if (filters?.country?.length > 0) {
+      return filters.country.some((c) => {
+        return c === coin.country;
       });
     }
 
@@ -39,6 +48,17 @@ export default function Home() {
     });
   };
 
+  const handleChangeCountry = (value: string) => {
+    const isActive = filters.country?.some((y) => y === value);
+
+    setFilters({
+      ...filters,
+      country: isActive
+        ? filters.country?.filter((yr) => yr !== value)
+        : [...(filters?.country ?? []), value],
+    });
+  };
+
   const yearRanges = buildYearRanges(yearsJson);
 
   return (
@@ -47,6 +67,11 @@ export default function Home() {
         years={yearRanges}
         value={filters.yearRanges}
         onChange={handleChangeYear}
+      />
+      <CountryFilter
+        countries={countriesJson}
+        value={filters.country}
+        onChange={handleChangeCountry}
       />
       <CoinList coins={filteredCoins} />
     </section>
