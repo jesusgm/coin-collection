@@ -1,14 +1,52 @@
+"use client";
+
 import { YearRange } from "@/types/index.types";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 interface IYearRangeFilterProps {
   years: YearRange[];
-  value?: YearRange[];
-  onChange: (value: YearRange) => void;
 }
 
-function YearRangeFilter({ years, value, onChange }: IYearRangeFilterProps) {
+function YearRangeFilter({ years }: IYearRangeFilterProps) {
+  const router = useRouter();
+  const params = useSearchParams();
+  const pathname = usePathname();
+  const yearParam =
+    params
+      .get("year")
+      ?.split(",")
+      ?.map((range) => {
+        const [start, end] = range.split("-");
+        return {
+          start: parseInt(start, 10),
+          end: parseInt(end, 10),
+        } as YearRange;
+      }) ?? [];
+
   const handleClickYear = (yearClick: YearRange) => {
-    onChange(yearClick);
+    const isActive = yearParam?.some((yr) => {
+      return yr.start === yearClick.start && yr.end === yearClick.end;
+    });
+
+    const newParams = new URLSearchParams(params.toString());
+    newParams.delete("year");
+
+    const newYearParam = isActive
+      ? yearParam?.filter(
+          (yr) => yr.start !== yearClick.start && yr.end !== yearClick.end
+        )
+      : [...yearParam, yearClick];
+
+    if (newYearParam.length > 0) {
+      newParams.set(
+        "year",
+        newYearParam.map((yr) => `${yr.start}-${yr.end}`).join(",")
+      );
+    }
+    const search = newParams.toString();
+    const query = search ? `?${search}` : "";
+
+    router.push(`${pathname}${query}`);
   };
 
   return (
@@ -16,9 +54,10 @@ function YearRangeFilter({ years, value, onChange }: IYearRangeFilterProps) {
       <h3 className="text-xl">Year</h3>
       <ul className="flex flex-row gap-2 flex-wrap">
         {years.map((year) => {
-          const isActive = value?.find(
+          const isActive = yearParam?.find(
             (y) => y.start === year.start && y.end === year.end
           );
+          // console.log({ year, isActive });
           return (
             <li
               key={`${year.start}-${year.end}`}

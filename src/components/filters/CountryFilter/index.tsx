@@ -1,12 +1,33 @@
+"use client";
+
+import { useSearchParams, useRouter, usePathname } from "next/navigation";
+
 interface ICountryFilterProps {
   countries: string[];
-  value?: string[];
-  onChange: (value: string) => void;
 }
 
-function CountryFilter({ countries, value, onChange }: ICountryFilterProps) {
+function CountryFilter({ countries }: ICountryFilterProps) {
+  const router = useRouter();
+  const params = useSearchParams();
+  const countryParam = params.get("country")?.split(",") ?? [];
+  const pathname = usePathname();
+
   const handleClick = (country: string) => {
-    onChange(country);
+    const isActive = countryParam?.some((c) => c === country);
+    const newParams = new URLSearchParams(params.toString());
+    newParams.delete("country");
+
+    const newCountryParam = isActive
+      ? countryParam?.filter((c) => c !== country)
+      : [...countryParam, country];
+
+    if (newCountryParam.length > 0) {
+      newParams.set("country", newCountryParam.join(","));
+    }
+    const search = newParams.toString();
+    const query = search ? `?${search}` : "";
+
+    router.push(`${pathname}${query}`);
   };
 
   return (
@@ -14,7 +35,9 @@ function CountryFilter({ countries, value, onChange }: ICountryFilterProps) {
       <h3 className="text-xl">Country</h3>
       <ul className="flex flex-row gap-2 flex-wrap">
         {countries.map((country) => {
-          const isActive = value?.find((y) => y === country);
+          const isActive = countryParam?.some(
+            (c) => c.toLowerCase() === country.toLowerCase()
+          );
           return (
             <li
               key={country}
