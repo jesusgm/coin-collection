@@ -1,16 +1,24 @@
 "use client";
 
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
+import { useEffect, useState } from "react";
 
-interface ICountryFilterProps {
-  countries: string[];
-}
-
-function CountryFilter({ countries }: ICountryFilterProps) {
+function CountryFilter() {
   const router = useRouter();
   const params = useSearchParams();
   const countryParam = params.get("country")?.split(",") ?? [];
   const pathname = usePathname();
+
+  const [countries, setCountries] = useState<string[]>([]);
+
+  useEffect(() => {
+    const fetchCountries = async () => {
+      const res = await fetch(`${process.env.NEXT_PUBLIC_API_PATH}/countries`);
+      const countriesJson: string[] = await res.json();
+      setCountries(countriesJson);
+    };
+    fetchCountries();
+  }, []);
 
   const handleClick = (country: string) => {
     const isActive = countryParam?.some((c) => c === country);

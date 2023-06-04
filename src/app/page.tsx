@@ -1,10 +1,10 @@
 import CoinList from "@/components/CoinList";
 import YearRangeFilter from "@/components/filters/YearRangeFilter";
-import { CoinType, FiltersType, YearRange } from "@/types/index.types";
+import { CoinType, YearRange } from "@/types/index.types";
 
 // import coinsJson from "@/data/coins.json";
-import yearsJson from "@/data/years.json";
-import countriesJson from "@/data/countries.json";
+// import yearsJson from "@/data/years.json";
+// import countriesJson from "@/data/countries.json";
 
 import { buildYearRanges } from "@/helpers/years";
 import CountryFilter from "@/components/filters/CountryFilter";
@@ -32,8 +32,12 @@ export default async function Home({
     apiParams.append("country", countryFilter.join(","));
   }
 
+  console.log(
+    `${process.env.NEXT_PUBLIC_API_PATH}/coins?${apiParams.toString()}`
+  );
+
   const coinsRes = await fetch(
-    `http://localhost:3000/api/coins?${apiParams.toString()}`
+    `${process.env.NEXT_PUBLIC_API_PATH}/coins?${apiParams.toString()}`
   );
   const coinsJson: CoinType[] = await coinsRes.json();
 
@@ -57,12 +61,10 @@ export default async function Home({
     return matchCountry && matchYear;
   });
 
-  const yearRanges = buildYearRanges(yearsJson);
-
   return (
     <section className="w-full">
-      <YearRangeFilter years={yearRanges} />
-      <CountryFilter countries={countriesJson} />
+      <YearRangeFilter />
+      <CountryFilter />
       <CoinList coins={filteredCoins} />
     </section>
   );

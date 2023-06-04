@@ -1,16 +1,26 @@
 "use client";
 
+import { buildYearRanges } from "@/helpers/years";
 import { YearRange } from "@/types/index.types";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { useEffect, useState } from "react";
 
-interface IYearRangeFilterProps {
-  years: YearRange[];
-}
-
-function YearRangeFilter({ years }: IYearRangeFilterProps) {
+function YearRangeFilter() {
   const router = useRouter();
   const params = useSearchParams();
   const pathname = usePathname();
+
+  const [years, setYears] = useState<YearRange[]>([]);
+  useEffect(() => {
+    const fetchYears = async () => {
+      const res = await fetch(`${process.env.NEXT_PUBLIC_API_PATH}/years`);
+      const yearsJson: number[] = await res.json();
+      const yearRanges = buildYearRanges(yearsJson);
+      setYears(yearRanges);
+    };
+    fetchYears();
+  }, []);
+
   const yearParam =
     params
       .get("year")
