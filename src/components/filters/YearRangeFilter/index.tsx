@@ -60,7 +60,7 @@ function YearRangeFilter() {
   };
 
   return (
-    <div className="mb-3">
+    <div className="mb-5">
       <h3 className="text-xl">Year</h3>
       <ul className="flex flex-row gap-2 flex-wrap">
         {years.map((year) => {

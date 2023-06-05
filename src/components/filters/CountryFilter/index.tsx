@@ -39,7 +39,7 @@ function CountryFilter() {
   };
 
   return (
-    <div className="mb-3">
+    <div className="mb-5">
       <h3 className="text-xl">Country</h3>
       <ul className="flex flex-row gap-2 flex-wrap">
         {countries.map((country) => {
