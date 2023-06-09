@@ -4,6 +4,8 @@ import { CoinType, YearRange } from "@/types/index.types";
 
 import CountryFilter from "@/components/filters/CountryFilter";
 
+export const revalidate = 60 * 60 * 24;
+
 export default async function Home({
   searchParams,
 }: {
@@ -51,6 +53,8 @@ export default async function Home({
 
     return matchCountry && matchYear;
   });
+
+  console.log(coinsJson);
 
   return (
     <section className="w-full">
