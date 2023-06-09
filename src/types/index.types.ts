@@ -9,6 +9,7 @@ export type CoinType = {
   value: number;
   other: string;
   name: string;
+  parent: number;
 };
 
 export type YearRange = {

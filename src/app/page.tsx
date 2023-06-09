@@ -46,7 +46,6 @@ export default async function Home({
     }
 
     if (countryFilter?.length > 0) {
-      console.log({ countryFilter });
       matchCountry = matchCountry = countryFilter.some((c) => {
         return c.toLowerCase() === coin.country.toLowerCase();
       });

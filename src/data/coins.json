@@ -9,7 +9,7 @@
     "year": 1968,
     "value": 1,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -22,7 +22,7 @@
     "year": 1943,
     "value": 1,
     "other": "III Reich",
-    "parent": "",
+    "parent": null,
     "name": "Reichspennig"
   },
   {
@@ -35,7 +35,7 @@
     "year": 1963,
     "value": 1,
     "other": "RDA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -48,7 +48,7 @@
     "year": 1979,
     "value": 2,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -61,7 +61,7 @@
     "year": 1950,
     "value": 5,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -74,7 +74,7 @@
     "year": 1971,
     "value": 10,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -87,7 +87,7 @@
     "year": 1963,
     "value": 10,
     "other": "RDA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -100,7 +100,7 @@
     "year": 1969,
     "value": 20,
     "other": "RDA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -113,7 +113,7 @@
     "year": 1956,
     "value": 1,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Mark"
   },
   {
@@ -126,7 +126,7 @@
     "year": 1950,
     "value": 50,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -139,7 +139,7 @@
     "year": 1972,
     "value": 2,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Mark"
   },
   {
@@ -152,7 +152,7 @@
     "year": 1980,
     "value": 2,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Mark"
   },
   {
@@ -165,7 +165,7 @@
     "year": 2006,
     "value": 1,
     "other": "Gibraltar",
-    "parent": "",
+    "parent": null,
     "name": "Penny"
   },
   {
@@ -178,7 +178,7 @@
     "year": 1974,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "New Penny"
   },
   {
@@ -191,7 +191,7 @@
     "year": 1993,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Penny"
   },
   {
@@ -204,7 +204,7 @@
     "year": 1980,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "New Penny"
   },
   {
@@ -217,7 +217,7 @@
     "year": 2007,
     "value": 2,
     "other": "Conmemorativa de  The Anglo- American Operation Torch 1942 ",
-    "parent": "",
+    "parent": null,
     "name": "Pence"
   },
   {
@@ -230,7 +230,7 @@
     "year": 2007,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pence"
   },
   {
@@ -243,7 +243,7 @@
     "year": 1992,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pence"
   },
   {
@@ -256,7 +256,7 @@
     "year": 2004,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pence"
   },
   {
@@ -269,7 +269,7 @@
     "year": 1985,
     "value": 1,
     "other": "Conmemorativa de Gales",
-    "parent": "",
+    "parent": null,
     "name": "Pound"
   },
   {
@@ -282,7 +282,7 @@
     "year": 1996,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pound"
   },
   {
@@ -295,7 +295,7 @@
     "year": 1996,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pound"
   },
   {
@@ -308,7 +308,7 @@
     "year": 2002,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pound"
   },
   {
@@ -321,7 +321,7 @@
     "year": 1973,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Krona"
   },
   {
@@ -334,7 +334,7 @@
     "year": 1978,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Krona"
   },
   {
@@ -347,7 +347,7 @@
     "year": 1954,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lepta"
   },
   {
@@ -360,7 +360,7 @@
     "year": 1954,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lepta"
   },
   {
@@ -373,7 +373,7 @@
     "year": 1966,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lepta"
   },
   {
@@ -386,7 +386,7 @@
     "year": 1959,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Drachma"
   },
   {
@@ -399,7 +399,7 @@
     "year": 1954,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Drachmai"
   },
   {
@@ -412,7 +412,7 @@
     "year": 1966,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Drachmai"
   },
   {
@@ -425,7 +425,7 @@
     "year": 1954,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Centavos"
   },
   {
@@ -438,7 +438,7 @@
     "year": 1974,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Centavos"
   },
   {
@@ -451,7 +451,7 @@
     "year": 1991,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudo"
   },
   {
@@ -464,7 +464,7 @@
     "year": 1981,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -477,7 +477,7 @@
     "year": 1985,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -490,7 +490,7 @@
     "year": 1991,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -503,7 +503,7 @@
     "year": 1991,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -516,7 +516,7 @@
     "year": 1986,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -529,7 +529,7 @@
     "year": 1990,
     "value": 100,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -542,7 +542,7 @@
     "year": 1955,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Cents"
   },
   {
@@ -555,7 +555,7 @@
     "year": 1955,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Gulden"
   },
   {
@@ -568,7 +568,7 @@
     "year": 1974,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Centimes"
   },
   {
@@ -581,7 +581,7 @@
     "year": 1984,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Centimes"
   },
   {
@@ -594,7 +594,7 @@
     "year": 1981,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Centimes"
   },
   {
@@ -607,7 +607,7 @@
     "year": 1977,
     "value": 0,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Franc"
   },
   {
@@ -620,7 +620,7 @@
     "year": 1944,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Franc"
   },
   {
@@ -633,7 +633,7 @@
     "year": 1964,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Franc"
   },
   {
@@ -646,7 +646,7 @@
     "year": 1945,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Francs"
   },
   {
@@ -659,7 +659,7 @@
     "year": 1980,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Francs"
   },
   {
@@ -672,7 +672,7 @@
     "year": 1988,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Francs"
   },
   {
@@ -685,7 +685,7 @@
     "year": 1952,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Francs"
   },
   {
@@ -698,7 +698,7 @@
     "year": 1955,
     "value": 100,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Francs"
   },
   {
@@ -711,7 +711,7 @@
     "year": 1985,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Rappen"
   },
   {
@@ -724,7 +724,7 @@
     "year": 1968,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Rappen"
   },
   {
@@ -737,7 +737,7 @@
     "year": 1959,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Rappen"
   },
   {
@@ -750,7 +750,7 @@
     "year": 1981,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Rappen"
   },
   {
@@ -763,7 +763,7 @@
     "year": 1950,
     "value": 0,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Franc"
   },
   {
@@ -776,7 +776,7 @@
     "year": 1988,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Franc"
   },
   {
@@ -789,7 +789,7 @@
     "year": 1979,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Groschen"
   },
   {
@@ -802,7 +802,7 @@
     "year": 1959,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Groschen"
   },
   {
@@ -815,7 +815,7 @@
     "year": 1957,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Schilling"
   },
   {
@@ -828,7 +828,7 @@
     "year": 1979,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Schilling"
   },
   {
@@ -841,7 +841,7 @@
     "year": 1977,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Schilling"
   },
   {
@@ -854,7 +854,7 @@
     "year": 1971,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Schilling"
   },
   {
@@ -867,7 +867,7 @@
     "year": 1957,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Kopecks"
   },
   {
@@ -880,7 +880,7 @@
     "year": 1950,
     "value": 3,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Kopecks"
   },
   {
@@ -893,7 +893,7 @@
     "year": 1936,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Kopecks"
   },
   {
@@ -906,7 +906,7 @@
     "year": 1952,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Kopecks"
   },
   {
@@ -919,7 +919,7 @@
     "year": 1975,
     "value": 5,
     "other": "Conmemorativa de la F.A.O.",
-    "parent": "",
+    "parent": null,
     "name": "Centavos"
   },
   {
@@ -932,7 +932,7 @@
     "year": 1961,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -945,7 +945,7 @@
     "year": 1955,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -958,7 +958,7 @@
     "year": 1954,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -971,7 +971,7 @@
     "year": 1960,
     "value": 25,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -984,7 +984,7 @@
     "year": 1941,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -997,7 +997,7 @@
     "year": 1973,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -1010,7 +1010,7 @@
     "year": 1960,
     "value": 100,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Milliemes"
   },
   {
@@ -1023,7 +1023,7 @@
     "year": 1954,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lire"
   },
   {
@@ -1036,7 +1036,7 @@
     "year": 1954,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lire"
   },
   {
@@ -1049,7 +1049,7 @@
     "year": 1957,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lire"
   },
   {
@@ -1062,7 +1062,7 @@
     "year": 1956,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Lire"
   },
   {
@@ -1075,7 +1075,7 @@
     "year": 1994,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Koruna"
   },
   {
@@ -1088,7 +1088,7 @@
     "year": 2002,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Koruny"
   },
   {
@@ -1101,7 +1101,7 @@
     "year": 2004,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Korun"
   },
   {
@@ -1114,7 +1114,7 @@
     "year": 1993,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Korun"
   },
   {
@@ -1127,7 +1127,7 @@
     "year": 1978,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Korun"
   },
   {
@@ -1140,7 +1140,7 @@
     "year": 1967,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Forint"
   },
   {
@@ -1153,7 +1153,7 @@
     "year": 2007,
     "value": 20,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Forint"
   },
   {
@@ -1166,7 +1166,7 @@
     "year": 1963,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -1179,7 +1179,7 @@
     "year": 1965,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Ore"
   },
   {
@@ -1192,7 +1192,7 @@
     "year": 1995,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Peso"
   },
   {
@@ -1205,7 +1205,7 @@
     "year": 1968,
     "value": 1,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Pfenning"
   },
   {
@@ -1218,7 +1218,7 @@
     "year": 1986,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Franc"
   },
   {
@@ -1231,7 +1231,7 @@
     "year": 1977,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Cents"
   },
   {
@@ -1244,7 +1244,7 @@
     "year": 1973,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Dollar"
   },
   {
@@ -1257,7 +1257,7 @@
     "year": 1954,
     "value": 1,
     "other": "Actual Rodesia, Zambia y Malaui.",
-    "parent": "",
+    "parent": null,
     "name": "Shilling"
   },
   {
@@ -1270,7 +1270,7 @@
     "year": 1978,
     "value": 5,
     "other": "RFA",
-    "parent": "",
+    "parent": null,
     "name": "Mark"
   },
   {
@@ -1283,7 +1283,7 @@
     "year": 1984,
     "value": 5,
     "other": "RFA - 150 aniversario de la Unión Aduanera Alemana",
-    "parent": "",
+    "parent": null,
     "name": "Mark"
   },
   {
@@ -1296,7 +1296,7 @@
     "year": 1967,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Penny"
   },
   {
@@ -1309,7 +1309,7 @@
     "year": 1959,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Drachmai"
   },
   {
@@ -1322,7 +1322,7 @@
     "year": 1986,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Escudos"
   },
   {
@@ -1335,7 +1335,7 @@
     "year": 1987,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Francs"
   },
   {
@@ -1348,7 +1348,7 @@
     "year": 2009,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Korun"
   },
   {
@@ -1361,7 +1361,7 @@
     "year": 1988,
     "value": 500,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pesetas"
   },
   {
@@ -1374,7 +1374,7 @@
     "year": 1959,
     "value": 1,
     "other": "",
-    "parent": "65",
+    "parent": 65,
     "name": "Shilling"
   },
   {
@@ -1387,7 +1387,7 @@
     "year": 2009,
     "value": 10,
     "other": "",
-    "parent": "57",
+    "parent": 57,
     "name": "Rappen"
   },
   {
@@ -1400,7 +1400,7 @@
     "year": 1960,
     "value": 1,
     "other": "",
-    "parent": "49",
+    "parent": 49,
     "name": "Franc"
   },
   {
@@ -1413,7 +1413,7 @@
     "year": 1999,
     "value": 20,
     "other": "",
-    "parent": "40",
+    "parent": 40,
     "name": "Escudos"
   },
   {
@@ -1426,7 +1426,7 @@
     "year": 1988,
     "value": 20,
     "other": "",
-    "parent": "40",
+    "parent": 40,
     "name": "Escudos"
   },
   {
@@ -1439,7 +1439,7 @@
     "year": 1984,
     "value": 2,
     "other": "RFA",
-    "parent": "12",
+    "parent": 12,
     "name": "Mark"
   },
   {
@@ -1452,7 +1452,7 @@
     "year": 1971,
     "value": 2,
     "other": "RFA",
-    "parent": "12",
+    "parent": 12,
     "name": "Mark"
   },
   {
@@ -1465,7 +1465,7 @@
     "year": 1977,
     "value": 2,
     "other": "RFA",
-    "parent": "12",
+    "parent": 12,
     "name": "Mark"
   },
   {
@@ -1478,7 +1478,7 @@
     "year": 1966,
     "value": 1,
     "other": "RFA",
-    "parent": "1",
+    "parent": 1,
     "name": "Pfenning"
   },
   {
@@ -1491,7 +1491,7 @@
     "year": 1973,
     "value": 1,
     "other": "",
-    "parent": "25",
+    "parent": 25,
     "name": "Krona"
   },
   {
@@ -1504,7 +1504,7 @@
     "year": 1978,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -1517,7 +1517,7 @@
     "year": 1958,
     "value": 20,
     "other": "",
-    "parent": "81",
+    "parent": 81,
     "name": "Lire"
   },
   {
@@ -1530,7 +1530,7 @@
     "year": 1954,
     "value": 20,
     "other": "",
-    "parent": "28",
+    "parent": 28,
     "name": "Lepta"
   },
   {
@@ -1543,7 +1543,7 @@
     "year": 1955,
     "value": 50,
     "other": "",
-    "parent": "82",
+    "parent": 82,
     "name": "Lire"
   },
   {
@@ -1556,7 +1556,7 @@
     "year": 1958,
     "value": 1,
     "other": "",
-    "parent": "43",
+    "parent": 43,
     "name": "Gulden"
   },
   {
@@ -1569,7 +1569,7 @@
     "year": 1990,
     "value": 50,
     "other": "RFA",
-    "parent": "10",
+    "parent": 10,
     "name": "Pfenning"
   },
   {
@@ -1582,7 +1582,7 @@
     "year": 1967,
     "value": 1,
     "other": "",
-    "parent": "88",
+    "parent": 88,
     "name": "Forint"
   },
   {
@@ -1595,7 +1595,7 @@
     "year": 1970,
     "value": 10,
     "other": "",
-    "parent": "61",
+    "parent": 61,
     "name": "Groschen"
   },
   {
@@ -1608,7 +1608,7 @@
     "year": 1977,
     "value": 1,
     "other": "",
-    "parent": "64",
+    "parent": 64,
     "name": "Schilling"
   },
   {
@@ -1621,7 +1621,7 @@
     "year": 1968,
     "value": 5,
     "other": "",
-    "parent": "56",
+    "parent": 56,
     "name": "Rappen"
   },
   {
@@ -1634,7 +1634,7 @@
     "year": 1961,
     "value": 1,
     "other": "",
-    "parent": "64",
+    "parent": 64,
     "name": "Schilling"
   },
   {
@@ -1647,7 +1647,7 @@
     "year": 1957,
     "value": 10,
     "other": "",
-    "parent": "69",
+    "parent": 69,
     "name": "Kopecks"
   },
   {
@@ -1660,7 +1660,7 @@
     "year": 1946,
     "value": 5,
     "other": "",
-    "parent": "56",
+    "parent": 56,
     "name": "Rappen"
   },
   {
@@ -1673,7 +1673,7 @@
     "year": 1962,
     "value": 10,
     "other": "",
-    "parent": "61",
+    "parent": 61,
     "name": "Groschen"
   },
   {
@@ -1686,7 +1686,7 @@
     "year": 1991,
     "value": 10,
     "other": "",
-    "parent": "52",
+    "parent": 52,
     "name": "Francs"
   },
   {
@@ -1699,7 +1699,7 @@
     "year": 1993,
     "value": 20,
     "other": "",
-    "parent": "58",
+    "parent": 58,
     "name": "Rappen"
   },
   {
@@ -1712,7 +1712,7 @@
     "year": 1973,
     "value": 50,
     "other": "",
-    "parent": "34",
+    "parent": 34,
     "name": "Centavos"
   },
   {
@@ -1725,7 +1725,7 @@
     "year": 1967,
     "value": 5,
     "other": "",
-    "parent": "56",
+    "parent": 56,
     "name": "Rappen"
   },
   {
@@ -1738,7 +1738,7 @@
     "year": 1954,
     "value": 10,
     "other": "",
-    "parent": "27",
+    "parent": 27,
     "name": "Lepta"
   },
   {
@@ -1751,7 +1751,7 @@
     "year": 1960,
     "value": 25,
     "other": "",
-    "parent": "75",
+    "parent": 75,
     "name": "Ore"
   },
   {
@@ -1764,7 +1764,7 @@
     "year": 1961,
     "value": 1,
     "other": "",
-    "parent": "25",
+    "parent": 25,
     "name": "Krona"
   },
   {
@@ -1777,7 +1777,7 @@
     "year": 1987,
     "value": 10,
     "other": "",
-    "parent": "39",
+    "parent": 39,
     "name": "Escudos"
   },
   {
@@ -1790,7 +1790,7 @@
     "year": 1980,
     "value": 1,
     "other": "",
-    "parent": "64",
+    "parent": 64,
     "name": "Schilling"
   },
   {
@@ -1803,7 +1803,7 @@
     "year": 1991,
     "value": 10,
     "other": "",
-    "parent": "52",
+    "parent": 52,
     "name": "Francs"
   },
   {
@@ -1816,7 +1816,7 @@
     "year": 1970,
     "value": 1,
     "other": "",
-    "parent": "25",
+    "parent": 25,
     "name": "Krona"
   },
   {
@@ -1829,7 +1829,7 @@
     "year": 1973,
     "value": 1,
     "other": "",
-    "parent": "25",
+    "parent": 25,
     "name": "Krona"
   },
   {
@@ -1842,7 +1842,7 @@
     "year": 1964,
     "value": 1,
     "other": "",
-    "parent": "25",
+    "parent": 25,
     "name": "Krona"
   },
   {
@@ -1855,7 +1855,7 @@
     "year": 1988,
     "value": 10,
     "other": "",
-    "parent": "52",
+    "parent": 52,
     "name": "Francs"
   },
   {
@@ -1868,7 +1868,7 @@
     "year": 1982,
     "value": 2,
     "other": "",
-    "parent": "51",
+    "parent": 51,
     "name": "Francs"
   },
   {
@@ -1881,7 +1881,7 @@
     "year": 1981,
     "value": 2,
     "other": "",
-    "parent": "51",
+    "parent": 51,
     "name": "Francs"
   },
   {
@@ -1894,7 +1894,7 @@
     "year": 1982,
     "value": 2,
     "other": "",
-    "parent": "51",
+    "parent": 51,
     "name": "Francs"
   },
   {
@@ -1907,7 +1907,7 @@
     "year": 1982,
     "value": 2,
     "other": "",
-    "parent": "51",
+    "parent": 51,
     "name": "Francs"
   },
   {
@@ -1920,7 +1920,7 @@
     "year": 1982,
     "value": 2,
     "other": "",
-    "parent": "51",
+    "parent": 51,
     "name": "Francs"
   },
   {
@@ -1933,7 +1933,7 @@
     "year": 1987,
     "value": 0,
     "other": "",
-    "parent": "59",
+    "parent": 59,
     "name": "Franc"
   },
   {
@@ -1946,7 +1946,7 @@
     "year": 1978,
     "value": 10,
     "other": "",
-    "parent": "45",
+    "parent": 45,
     "name": "Centimes"
   },
   {
@@ -1959,7 +1959,7 @@
     "year": 1994,
     "value": 10,
     "other": "",
-    "parent": "45",
+    "parent": 45,
     "name": "Centimes"
   },
   {
@@ -1972,7 +1972,7 @@
     "year": 1987,
     "value": 1,
     "other": "",
-    "parent": "60",
+    "parent": 60,
     "name": "Franc"
   },
   {
@@ -1985,7 +1985,7 @@
     "year": 1958,
     "value": 20,
     "other": "",
-    "parent": "81",
+    "parent": 81,
     "name": "Lire"
   },
   {
@@ -1998,7 +1998,7 @@
     "year": 1990,
     "value": 5,
     "other": "",
-    "parent": "38",
+    "parent": 38,
     "name": "Escudos"
   },
   {
@@ -2011,7 +2011,7 @@
     "year": 1987,
     "value": 10,
     "other": "",
-    "parent": "39",
+    "parent": 39,
     "name": "Escudos"
   },
   {
@@ -2024,7 +2024,7 @@
     "year": 1988,
     "value": 10,
     "other": "",
-    "parent": "39",
+    "parent": 39,
     "name": "Escudos"
   },
   {
@@ -2037,7 +2037,7 @@
     "year": 1971,
     "value": 50,
     "other": "RFA",
-    "parent": "10",
+    "parent": 10,
     "name": "Pfenning"
   },
   {
@@ -2050,7 +2050,7 @@
     "year": 1978,
     "value": 1,
     "other": "RFA",
-    "parent": "1",
+    "parent": 1,
     "name": "Pfenning"
   },
   {
@@ -2063,7 +2063,7 @@
     "year": 1955,
     "value": 10,
     "other": "",
-    "parent": "74",
+    "parent": 74,
     "name": "Ore"
   },
   {
@@ -2076,7 +2076,7 @@
     "year": 1959,
     "value": 2,
     "other": "RFA",
-    "parent": "4",
+    "parent": 4,
     "name": "Pfenning"
   },
   {
@@ -2089,7 +2089,7 @@
     "year": 1990,
     "value": 0,
     "other": "",
-    "parent": "59",
+    "parent": 59,
     "name": "Franc"
   },
   {
@@ -2102,7 +2102,7 @@
     "year": 1953,
     "value": 5,
     "other": "",
-    "parent": "79",
+    "parent": 79,
     "name": "Lire"
   },
   {
@@ -2115,7 +2115,7 @@
     "year": 1967,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -2128,7 +2128,7 @@
     "year": 1974,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -2141,7 +2141,7 @@
     "year": 1978,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -2154,7 +2154,7 @@
     "year": 1988,
     "value": 10,
     "other": "",
-    "parent": "39",
+    "parent": 39,
     "name": "Escudos"
   },
   {
@@ -2167,7 +2167,7 @@
     "year": 1969,
     "value": 1,
     "other": "",
-    "parent": "49",
+    "parent": 49,
     "name": "Franc"
   },
   {
@@ -2180,7 +2180,7 @@
     "year": 1970,
     "value": 1,
     "other": "",
-    "parent": "25",
+    "parent": 25,
     "name": "Krona"
   },
   {
@@ -2193,7 +2193,7 @@
     "year": 1960,
     "value": 1,
     "other": "",
-    "parent": "64",
+    "parent": 64,
     "name": "Schilling"
   },
   {
@@ -2206,7 +2206,7 @@
     "year": 1971,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -2219,7 +2219,7 @@
     "year": 1986,
     "value": 0,
     "other": "",
-    "parent": "47",
+    "parent": 47,
     "name": "Franc"
   },
   {
@@ -2232,7 +2232,7 @@
     "year": 1978,
     "value": 10,
     "other": "",
-    "parent": "45",
+    "parent": 45,
     "name": "Centimes"
   },
   {
@@ -2245,7 +2245,7 @@
     "year": 1984,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -2258,7 +2258,7 @@
     "year": 1942,
     "value": 1,
     "other": "III Reich",
-    "parent": "2",
+    "parent": 2,
     "name": "Reichspennig"
   },
   {
@@ -2271,7 +2271,7 @@
     "year": 1953,
     "value": 10,
     "other": "",
-    "parent": "74",
+    "parent": 74,
     "name": "Ore"
   },
   {
@@ -2284,7 +2284,7 @@
     "year": 1968,
     "value": 0,
     "other": "",
-    "parent": "47",
+    "parent": 47,
     "name": "Franc"
   },
   {
@@ -2297,7 +2297,7 @@
     "year": 1971,
     "value": 5,
     "other": "RFA",
-    "parent": "5",
+    "parent": 5,
     "name": "Pfenning"
   },
   {
@@ -2310,7 +2310,7 @@
     "year": 1960,
     "value": 20,
     "other": "",
-    "parent": "58",
+    "parent": 58,
     "name": "Rappen"
   },
   {
@@ -2323,7 +2323,7 @@
     "year": 1976,
     "value": 5,
     "other": "",
-    "parent": "44",
+    "parent": 44,
     "name": "Centimes"
   },
   {
@@ -2336,7 +2336,7 @@
     "year": 1980,
     "value": 2,
     "other": "",
-    "parent": "36",
+    "parent": 36,
     "name": "Escudos"
   },
   {
@@ -2349,7 +2349,7 @@
     "year": 1971,
     "value": 1,
     "other": "RFA",
-    "parent": "1",
+    "parent": 1,
     "name": "Pfenning"
   },
   {
@@ -2362,7 +2362,7 @@
     "year": 1967,
     "value": 10,
     "other": "",
-    "parent": "45",
+    "parent": 45,
     "name": "Centimes"
   },
   {
@@ -2375,7 +2375,7 @@
     "year": 1977,
     "value": 10,
     "other": "",
-    "parent": "45",
+    "parent": 45,
     "name": "Centimes"
   },
   {
@@ -2388,7 +2388,7 @@
     "year": 1993,
     "value": 5,
     "other": "RFA",
-    "parent": "5",
+    "parent": 5,
     "name": "Pfenning"
   },
   {
@@ -2401,7 +2401,7 @@
     "year": 1978,
     "value": 1,
     "other": "RFA",
-    "parent": "1",
+    "parent": 1,
     "name": "Pfenning"
   },
   {
@@ -2414,7 +2414,7 @@
     "year": 1991,
     "value": 1,
     "other": "RFA",
-    "parent": "9",
+    "parent": 9,
     "name": "Mark"
   },
   {
@@ -2427,7 +2427,7 @@
     "year": 1950,
     "value": 50,
     "other": "RFA",
-    "parent": "10",
+    "parent": 10,
     "name": "Pfenning"
   },
   {
@@ -2440,7 +2440,7 @@
     "year": 1868,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Céntimos de Escudo"
   },
   {
@@ -2453,7 +2453,7 @@
     "year": 1870,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Céntimos"
   },
   {
@@ -2466,7 +2466,7 @@
     "year": 1892,
     "value": 2,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pesetas"
   },
   {
@@ -2479,7 +2479,7 @@
     "year": 1949,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Céntimos"
   },
   {
@@ -2492,7 +2492,7 @@
     "year": 1959,
     "value": 10,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Céntimos"
   },
   {
@@ -2505,7 +2505,7 @@
     "year": 1953,
     "value": 1,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Peseta"
   },
   {
@@ -2518,7 +2518,7 @@
     "year": 1957,
     "value": 5,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pesetas"
   },
   {
@@ -2531,7 +2531,7 @@
     "year": 1957,
     "value": 25,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Pesetas"
   },
   {
@@ -2544,7 +2544,7 @@
     "year": 1963,
     "value": 50,
     "other": "",
-    "parent": "",
+    "parent": null,
     "name": "Céntimos"
   }
 ]
