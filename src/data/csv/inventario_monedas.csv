@@ -1,76 +1,207 @@
-id,pais,año,cantidad,nombre ,otros
-1,Alemania,1943,1,Reichspennig,III Reich
-2,Alemania,1968,1,Pfenning,RFA
-3,Alemania,1963,1,Pfenning,RDA
-4,Alemania,1979,2,Pfenning,RFA
-5,Alemania,1950,5,Pfenning,RFA
-6,Alemania,1971,10,Pfenning,RFA
-7,Alemania,1963,10,Pfenning,RDA
-8,Alemania,1969,20,Pfenning,RDA
-9,Alemania,1956,1,Mark,RFA
-10,Alemania,1950,50,Pfenning,RFA
-11,Alemania,1972,2,Mark,RFA
-12,Alemania,1980,2,Mark,RFA
-13,UK,2006,1,Penny,Gibraltar
-14,UK,1974,1,New Penny,
-15,UK,1993,1,Penny,
-16,UK,1980,2,New Penny,
-17,UK,2007,2,Pence,Conmemorativa de  The Anglo- American Operation Torch 1942 
-18,UK,2007,20,Pence,
-19,UK,1992,20,Pence,
-20,UK,2004,50,Pence,
-21,UK,1985,1,Pound,Conmemorativa de Gales
-22,UK,1996,1,Pound,
-23,UK,1996,1,Pound,
-24,UK,2002,1,Pound,
-25,Suecia,1973,1,Krona,
-26,Suecia,1978,1,Krona,
-27,Grecia,1954,10,Lepta,
-28,Grecia,1954,20,Lepta,
-29,Grecia,1966,50,Lepta,
-30,Grecia,1959,1,Drachma,
-31,Grecia,1954,2,Drachmai,
-32,Grecia,1966,2,Drachmai,
-33,Portugal,1954,20,Centavos,
-34,Portugal,1974,50,Centavos,
-35,Portugal,1991,1,Escudo,
-36,Portugal,1981,2.5,Escudos,
-37,Portugal,1985,5,Escudos,
-38,Portugal,1991,5,Escudos,
-39,Portugal,1991,10,Escudos,
-40,Portugal,1986,20,Escudos,
-41,Portugal,1990,100,Escudos,
-42,Holanda,1955,10,Cents,
-43,Holanda,1955,1,Gulden,
-44,Francia,1974,5,Centimes,
-45,Francia,1984,10,Centimes,
-46,Francia,1981,20,Centimes,
-47,Francia,1977,1.5,Franc,
-48,Francia,1944,1,Franc,
-49,Francia,1964,1,Franc,
-50,Francia,1945,2,Francs,
-51,Francia,1980,2,Francs,fr
-52,Francia,1988,10,Francs,
-53,Francia,1952,20,Francs,
-54,Francia,1955,100,Francs,
-55,Suiza,1985,5,Rappen,
-56,Suiza,1968,5,Rappen,
-57,Suiza,1959,10,Rappen,
-58,Suiza,1981,20,Rappen,
-59,Suiza,1950,1.5,Franc,
-60,Suiza,1988,1,Franc,
-61,Austria,1979,10,Groschen,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,Alemania,1978,5,Mark,RFA
-,Alemania,1984,5,Mark,RFA - 150 aniversario de la Unión Aduanera Alemana
-,UK,1967,1,Penny,
-,Grecia,1959,10,Drachmai,
-,España,1868,2.5,Escudos,
-,Portugal,1986,20,Escudos,
-,Francia,1987,5,Francs,
+﻿id,pais,año,cantidad,nombre ,otros,referencia
+1,Alemania,1968,1,Pfenning,RFA,
+2,Alemania,1943,1,Reichspennig,III Reich,
+3,Alemania,1963,1,Pfenning,RDA,
+4,Alemania,1979,2,Pfenning,RFA,
+5,Alemania,1950,5,Pfenning,RFA,
+6,Alemania,1971,10,Pfenning,RFA,
+7,Alemania,1963,10,Pfenning,RDA,
+8,Alemania,1969,20,Pfenning,RDA,
+9,Alemania,1956,1,Mark,RFA,
+10,Alemania,1950,50,Pfenning,RFA,
+11,Alemania,1972,2,Mark,RFA,
+12,Alemania,1980,2,Mark,RFA,
+13,UK,2006,1,Penny,Gibraltar,
+14,UK,1974,1,New Penny,,
+15,UK,1993,1,Penny,,
+16,UK,1980,2,New Penny,,
+17,UK,2007,2,Pence,Conmemorativa de  The Anglo- American Operation Torch 1942 ,
+18,UK,2007,20,Pence,,
+19,UK,1992,20,Pence,,
+20,UK,2004,50,Pence,,
+21,UK,1985,1,Pound,Conmemorativa de Gales,
+22,UK,1996,1,Pound,,
+23,UK,1996,1,Pound,,
+24,UK,2002,1,Pound,,
+25,Suecia,1973,1,Krona,,
+26,Suecia,1978,1,Krona,,
+27,Grecia,1954,10,Lepta,,
+28,Grecia,1954,20,Lepta,,
+29,Grecia,1966,50,Lepta,,
+30,Grecia,1959,1,Drachma,,
+31,Grecia,1954,2,Drachmai,,
+32,Grecia,1966,2,Drachmai,,
+33,Portugal,1954,20,Centavos,,
+34,Portugal,1974,50,Centavos,,
+35,Portugal,1991,1,Escudo,,
+36,Portugal,1981,2.5,Escudos,,
+37,Portugal,1985,5,Escudos,,
+38,Portugal,1991,5,Escudos,,
+39,Portugal,1991,10,Escudos,,
+40,Portugal,1986,20,Escudos,,
+41,Portugal,1990,100,Escudos,,
+42,Holanda,1955,10,Cents,,
+43,Holanda,1955,1,Gulden,,
+44,Francia,1974,5,Centimes,,
+45,Francia,1984,10,Centimes,,
+46,Francia,1981,20,Centimes,,
+47,Francia,1977,0.5,Franc,,
+48,Francia,1944,1,Franc,,
+49,Francia,1964,1,Franc,,
+50,Francia,1945,2,Francs,,
+51,Francia,1980,2,Francs,,
+52,Francia,1988,10,Francs,,
+53,Francia,1952,20,Francs,,
+54,Francia,1955,100,Francs,,
+55,Suiza,1985,5,Rappen,,
+56,Suiza,1968,5,Rappen,,
+57,Suiza,1959,10,Rappen,,
+58,Suiza,1981,20,Rappen,,
+59,Suiza,1950,0.5,Franc,,
+60,Suiza,1988,1,Franc,,
+61,Austria,1979,10,Groschen,,
+62,Austria,1959,50,Groschen,,
+63,Austria,1957,1,Schilling,,
+64,Austria,1979,1,Schilling,,
+65,Austria,1977,5,Schilling,,
+66,Austria,1971,10,Schilling,,
+67,Unión Soviética,1957,2,Kopecks,,
+68,Unión Soviética,1950,3,Kopecks,,
+69,Unión Soviética,1936,10,Kopecks,,
+70,Unión Soviética,1952,20,Kopecks,,
+71,Brasil,1975,5,Centavos,Conmemorativa de la F.A.O.,
+72,Noruega,1961,1,Ore,,
+73,Noruega,1955,2,Ore,,
+74,Noruega,1954,10,Ore,,
+75,Noruega,1960,25,Ore,,
+76,Noruega,1941,50,Ore,,
+77,Suecia,1973,50,Ore,,
+78,Túnez,1960,100,Milliemes,,
+79,Italia,1954,5,Lire,,
+80,Italia,1954,10,Lire,,
+81,Italia,1957,20,Lire,,
+82,Italia,1956,50,Lire,,
+83,República Checa,1994,1,Koruna,,
+84,República Checa,2002,2,Koruny,,
+85,República Checa,2004,10,Korun,,
+86,República Checa,1993,20,Korun,,
+87,Checoslovaquia,1978,5,Korun,,
+88,Hungría,1967,1,Forint,,
+89,Hungría,2007,20,Forint,,
+90,Dinamarca,1963,1,Ore,,
+91,Dinamarca,1965,2,Ore,,
+92,Argentina,1995,1,Peso,,
+93,Alemania,1968,1,Pfenning,RFA,
+94,Belgica,1986,5,Franc,,
+95,USA,1977,5,Cents,,
+96,USA,1973,1/4,Dollar,,
+97,Rodesia y Nyasalandia,1954,1,Shilling,"Actual Rodesia, Zambia y Malaui.",
+98,Alemania,1978,5,Mark,RFA,
+99,Alemania,1984,5,Mark,RFA - 150 aniversario de la Unión Aduanera Alemana,
+100,UK,1967,1,Penny,,
+101,Grecia,1959,10,Drachmai,,
+102,Portugal,1986,50,Escudos,,
+103,Francia,1987,5,Francs,,
+104,República Checa,2009,50,Korun,,
+105,España,1988,500,Pesetas,,
+106,Austria,1959,1,Shilling,,65
+107,Suiza,2009,10,Rappen,,57
+108,Francia,1960,1,Franc,,49
+109,Portugal,1999,20,Escudos,,40
+110,Portugal,1988,20,Escudos,,40
+111,Alemania,1984,2,Mark,RFA,12
+112,Alemania,1971,2,Mark,RFA,12
+113,Alemania,1977,2,Mark,RFA,12
+114,Alemania,1966,1,Pfenning,RFA,1
+115,Suecia,1973,1,Krona,,25
+116,Francia,1978,5,Centimes,,44
+117,Italia,1958,20,Lire,,81
+118,Grecia,1954,20,Lepta,,28
+119,Italia,1955,50,Lire,,82
+120,Holanda,1958,1,Gulden,,43
+121,Alemania,1990,50,Pfenning,RFA,10
+122,Hungría,1967,1,Forint,,88
+123,Austria,1970,10,Groschen,,61
+124,Austria,1977,1,Schilling,,64
+125,Suiza,1968,5,Rappen,,56
+126,Austria,1961,1,Schilling,,64
+127,Unión Soviética,1957,10,Kopecks,,69
+128,Suiza,1946,5,Rappen,,56
+129,Austria,1962,10,Groschen,,61
+130,Francia,1991,10,Francs,,52
+131,Suiza,1993,20,Rappen,,58
+132,Portugal,1973,50,Centavos,,34
+128,Suiza,1967,5,Rappen,,56
+129,Grecia,1954,10,Lepta,,27
+130,Noruega,1960,25,Ore,,75
+131,Suecia,1961,1,Krona,,25
+132,Portugal,1987,10,Escudos,,39
+133,Austria,1980,1,Schilling,,64
+134,Francia,1991,10,Francs,,52
+135,Suecia,1970,1,Krona,,25
+136,Suecia,1973,1,Krona,,25
+137,Suecia,1964,1,Krona,,25
+138,Francia,1988,10,Francs,,52
+139,Francia,1982,2,Francs,,51
+140,Francia,1981,2,Francs,,51
+141,Francia,1982,2,Francs,,51
+142,Francia,1982,2,Francs,,51
+143,Francia,1982,2,Francs,,51
+144,Suiza,1987,0.5,Franc,,59
+145,Francia,1978,10,Centimes,,45
+146,Francia,1994,10,Centimes,,45
+147,Suiza,1987,1,Franc,,60
+148,Italia,1958,20,Lire,,81
+149,Portugal,1990,5,Escudos,,38
+150,Portugal,1987,10,Escudos,,39
+151,Portugal,1988,10,Escudos,,39
+152,Alemania,1971,50,Pfenning,RFA,10
+153,Alemania,1978,1,Pfenning,RFA,1
+154,Noruega,1955,10,Ore,,74
+155,Alemania,1959,2,Pfenning,RFA,4
+156,Suiza,1990,0.5,Franc,,59
+157,Italia,1953,5,Lire,,79
+158,Francia,1967,5,Centimes,,44
+159,Francia,1974,5,Centimes,,44
+160,Francia,1978,5,Centimes,,44
+161,Portugal,1988,10,Escudos,,39
+162,Francia,1969,1,Franc,,49
+163,Suecia,1970,1,Krona,,25
+164,Austria,1960,1,Schilling,,64
+165,Francia,1971,5,Centimes,,44
+166,Francia,1986,0.5,Franc,,47
+167,Francia,1978,10,Centimes,,45
+168,Francia,1984,5,Centimes,,44
+169,Alemania,1942,1,Reichspennig,III Reich,2
+170,Noruega,1953,10,Ore,,74
+171,Francia,1968,0.5,Franc,,47
+172,Alemania,1971,5,Pfenning,RFA,5
+173,Suiza,1960,20,Rappen,,58
+174,Francia,1976,5,Centimes,,44
+175,Portugal,1980,2.5,Escudos,,36
+176,Alemania,1971,1,Pfenning,RFA,1
+177,Francia,1967,10,Centimes,,45
+178,Francia,1977,10,Centimes,,45
+179,Alemania,1993,5,Pfenning,RFA,5
+180,Alemania,1978,1,Pfenning,RFA,1
+181,Alemania,1991,1,Mark,RFA,9
+182,Alemania,1950,50,Pfenning,RFA,10
+183,España,1868,2.5,Céntimos de Escudo,,
+184,España,1870,5,Céntimos,,
+185,España,1892,2,Pesetas,,
+186,España,1949,50,Céntimos,,
+187,España,1959,10,Céntimos,,
+188,España,1953,1,Peseta,,
+189,España,1957,5,Pesetas,,
+190,España,1957,25,Pesetas,,
+191,España,1963,50,Céntimos,,
+,España,1966,1,Peseta,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
+,España,,,,,
