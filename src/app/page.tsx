@@ -4,7 +4,7 @@ import { CoinType, YearRange } from "@/types/index.types";
 
 import CountryFilter from "@/components/filters/CountryFilter";
 
-export const revalidate = 60 * 60 * 24;
+export const revalidate = 60;
 
 export default async function Home({
   searchParams,
@@ -46,15 +46,14 @@ export default async function Home({
     }
 
     if (countryFilter?.length > 0) {
-      matchCountry = countryFilter.some((c) => {
-        return c === coin.country;
+      console.log({ countryFilter });
+      matchCountry = matchCountry = countryFilter.some((c) => {
+        return c.toLowerCase() === coin.country.toLowerCase();
       });
     }
 
     return matchCountry && matchYear;
   });
-
-  console.log(coinsJson);
 
   return (
     <section className="w-full">

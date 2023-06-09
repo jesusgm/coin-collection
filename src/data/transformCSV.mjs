@@ -8,7 +8,7 @@ const DATA_PATH = `${path.dirname(__filename)}`;
 const CSV_PATH = `${DATA_PATH}/csv`;
 
 const parseCSVOptions = {
-  delimiter: ",",
+  delimiter: ";",
   endofline: "\n",
 };
 
@@ -26,7 +26,9 @@ const parseCSV = async () => {
 
   const lines = csv.split(parseCSVOptions.endofline);
 
-  const headers = lines[0].split(parseCSVOptions.delimiter);
+  const headers = lines[0].split(parseCSVOptions.delimiter).map((header) => {
+    return header.replace(/\"/g, "").trim();
+  });
 
   const data = lines.slice(1).map((line) => {
     const values = line.split(parseCSVOptions.delimiter);
@@ -37,7 +39,7 @@ const parseCSV = async () => {
       switch (header.trim()) {
         case "id":
           const id = values[index];
-          coin.id = id;
+          coin.id = parseInt(id, 10);
           coin.images = {
             front: `/coin-images/moneda${id}_A.jpg`,
             back: `/coin-images/moneda${id}_B.jpg`,
@@ -67,6 +69,13 @@ const parseCSV = async () => {
     });
 
     if (!coin.id) return;
+
+    if (coin.parent) {
+      coin.images = {
+        front: `/coin-images/moneda${coin.parent}_A.jpg`,
+        back: `/coin-images/moneda${coin.parent}_B.jpg`,
+      };
+    }
 
     return coin;
   });

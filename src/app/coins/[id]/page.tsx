@@ -5,10 +5,11 @@ import data from "@/data/coins.json";
 import { NextPageContext } from "next";
 import Image from "next/image";
 
-function Coin({ params }: { params: { id: string } }) {
+async function Coin({ params }: { params: { id: string } }) {
   const { id } = params;
 
-  const coin = data.find((coin) => coin.id === id);
+  const res = await fetch(`${process.env.NEXT_PUBLIC_API_PATH}/coins/${id}`);
+  const coin: CoinType = await res.json();
 
   if (!coin) {
     return <div>Not found</div>;

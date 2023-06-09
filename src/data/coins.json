@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "images": {
       "front": "/coin-images/moneda1_A.jpg",
       "back": "/coin-images/moneda1_B.jpg"
@@ -13,7 +13,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "2",
+    "id": 2,
     "images": {
       "front": "/coin-images/moneda2_A.jpg",
       "back": "/coin-images/moneda2_B.jpg"
@@ -26,7 +26,7 @@
     "name": "Reichspennig"
   },
   {
-    "id": "3",
+    "id": 3,
     "images": {
       "front": "/coin-images/moneda3_A.jpg",
       "back": "/coin-images/moneda3_B.jpg"
@@ -39,7 +39,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "4",
+    "id": 4,
     "images": {
       "front": "/coin-images/moneda4_A.jpg",
       "back": "/coin-images/moneda4_B.jpg"
@@ -52,7 +52,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "5",
+    "id": 5,
     "images": {
       "front": "/coin-images/moneda5_A.jpg",
       "back": "/coin-images/moneda5_B.jpg"
@@ -65,7 +65,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "6",
+    "id": 6,
     "images": {
       "front": "/coin-images/moneda6_A.jpg",
       "back": "/coin-images/moneda6_B.jpg"
@@ -78,7 +78,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "7",
+    "id": 7,
     "images": {
       "front": "/coin-images/moneda7_A.jpg",
       "back": "/coin-images/moneda7_B.jpg"
@@ -91,7 +91,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "8",
+    "id": 8,
     "images": {
       "front": "/coin-images/moneda8_A.jpg",
       "back": "/coin-images/moneda8_B.jpg"
@@ -104,7 +104,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "9",
+    "id": 9,
     "images": {
       "front": "/coin-images/moneda9_A.jpg",
       "back": "/coin-images/moneda9_B.jpg"
@@ -117,7 +117,7 @@
     "name": "Mark"
   },
   {
-    "id": "10",
+    "id": 10,
     "images": {
       "front": "/coin-images/moneda10_A.jpg",
       "back": "/coin-images/moneda10_B.jpg"
@@ -130,7 +130,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "11",
+    "id": 11,
     "images": {
       "front": "/coin-images/moneda11_A.jpg",
       "back": "/coin-images/moneda11_B.jpg"
@@ -143,7 +143,7 @@
     "name": "Mark"
   },
   {
-    "id": "12",
+    "id": 12,
     "images": {
       "front": "/coin-images/moneda12_A.jpg",
       "back": "/coin-images/moneda12_B.jpg"
@@ -156,7 +156,7 @@
     "name": "Mark"
   },
   {
-    "id": "13",
+    "id": 13,
     "images": {
       "front": "/coin-images/moneda13_A.jpg",
       "back": "/coin-images/moneda13_B.jpg"
@@ -169,7 +169,7 @@
     "name": "Penny"
   },
   {
-    "id": "14",
+    "id": 14,
     "images": {
       "front": "/coin-images/moneda14_A.jpg",
       "back": "/coin-images/moneda14_B.jpg"
@@ -182,7 +182,7 @@
     "name": "New Penny"
   },
   {
-    "id": "15",
+    "id": 15,
     "images": {
       "front": "/coin-images/moneda15_A.jpg",
       "back": "/coin-images/moneda15_B.jpg"
@@ -195,7 +195,7 @@
     "name": "Penny"
   },
   {
-    "id": "16",
+    "id": 16,
     "images": {
       "front": "/coin-images/moneda16_A.jpg",
       "back": "/coin-images/moneda16_B.jpg"
@@ -208,7 +208,7 @@
     "name": "New Penny"
   },
   {
-    "id": "17",
+    "id": 17,
     "images": {
       "front": "/coin-images/moneda17_A.jpg",
       "back": "/coin-images/moneda17_B.jpg"
@@ -221,7 +221,7 @@
     "name": "Pence"
   },
   {
-    "id": "18",
+    "id": 18,
     "images": {
       "front": "/coin-images/moneda18_A.jpg",
       "back": "/coin-images/moneda18_B.jpg"
@@ -234,7 +234,7 @@
     "name": "Pence"
   },
   {
-    "id": "19",
+    "id": 19,
     "images": {
       "front": "/coin-images/moneda19_A.jpg",
       "back": "/coin-images/moneda19_B.jpg"
@@ -247,7 +247,7 @@
     "name": "Pence"
   },
   {
-    "id": "20",
+    "id": 20,
     "images": {
       "front": "/coin-images/moneda20_A.jpg",
       "back": "/coin-images/moneda20_B.jpg"
@@ -260,7 +260,7 @@
     "name": "Pence"
   },
   {
-    "id": "21",
+    "id": 21,
     "images": {
       "front": "/coin-images/moneda21_A.jpg",
       "back": "/coin-images/moneda21_B.jpg"
@@ -273,7 +273,7 @@
     "name": "Pound"
   },
   {
-    "id": "22",
+    "id": 22,
     "images": {
       "front": "/coin-images/moneda22_A.jpg",
       "back": "/coin-images/moneda22_B.jpg"
@@ -286,7 +286,7 @@
     "name": "Pound"
   },
   {
-    "id": "23",
+    "id": 23,
     "images": {
       "front": "/coin-images/moneda23_A.jpg",
       "back": "/coin-images/moneda23_B.jpg"
@@ -299,7 +299,7 @@
     "name": "Pound"
   },
   {
-    "id": "24",
+    "id": 24,
     "images": {
       "front": "/coin-images/moneda24_A.jpg",
       "back": "/coin-images/moneda24_B.jpg"
@@ -312,7 +312,7 @@
     "name": "Pound"
   },
   {
-    "id": "25",
+    "id": 25,
     "images": {
       "front": "/coin-images/moneda25_A.jpg",
       "back": "/coin-images/moneda25_B.jpg"
@@ -325,7 +325,7 @@
     "name": "Krona"
   },
   {
-    "id": "26",
+    "id": 26,
     "images": {
       "front": "/coin-images/moneda26_A.jpg",
       "back": "/coin-images/moneda26_B.jpg"
@@ -338,7 +338,7 @@
     "name": "Krona"
   },
   {
-    "id": "27",
+    "id": 27,
     "images": {
       "front": "/coin-images/moneda27_A.jpg",
       "back": "/coin-images/moneda27_B.jpg"
@@ -351,7 +351,7 @@
     "name": "Lepta"
   },
   {
-    "id": "28",
+    "id": 28,
     "images": {
       "front": "/coin-images/moneda28_A.jpg",
       "back": "/coin-images/moneda28_B.jpg"
@@ -364,7 +364,7 @@
     "name": "Lepta"
   },
   {
-    "id": "29",
+    "id": 29,
     "images": {
       "front": "/coin-images/moneda29_A.jpg",
       "back": "/coin-images/moneda29_B.jpg"
@@ -377,7 +377,7 @@
     "name": "Lepta"
   },
   {
-    "id": "30",
+    "id": 30,
     "images": {
       "front": "/coin-images/moneda30_A.jpg",
       "back": "/coin-images/moneda30_B.jpg"
@@ -390,7 +390,7 @@
     "name": "Drachma"
   },
   {
-    "id": "31",
+    "id": 31,
     "images": {
       "front": "/coin-images/moneda31_A.jpg",
       "back": "/coin-images/moneda31_B.jpg"
@@ -403,7 +403,7 @@
     "name": "Drachmai"
   },
   {
-    "id": "32",
+    "id": 32,
     "images": {
       "front": "/coin-images/moneda32_A.jpg",
       "back": "/coin-images/moneda32_B.jpg"
@@ -416,7 +416,7 @@
     "name": "Drachmai"
   },
   {
-    "id": "33",
+    "id": 33,
     "images": {
       "front": "/coin-images/moneda33_A.jpg",
       "back": "/coin-images/moneda33_B.jpg"
@@ -429,7 +429,7 @@
     "name": "Centavos"
   },
   {
-    "id": "34",
+    "id": 34,
     "images": {
       "front": "/coin-images/moneda34_A.jpg",
       "back": "/coin-images/moneda34_B.jpg"
@@ -442,7 +442,7 @@
     "name": "Centavos"
   },
   {
-    "id": "35",
+    "id": 35,
     "images": {
       "front": "/coin-images/moneda35_A.jpg",
       "back": "/coin-images/moneda35_B.jpg"
@@ -455,7 +455,7 @@
     "name": "Escudo"
   },
   {
-    "id": "36",
+    "id": 36,
     "images": {
       "front": "/coin-images/moneda36_A.jpg",
       "back": "/coin-images/moneda36_B.jpg"
@@ -468,7 +468,7 @@
     "name": "Escudos"
   },
   {
-    "id": "37",
+    "id": 37,
     "images": {
       "front": "/coin-images/moneda37_A.jpg",
       "back": "/coin-images/moneda37_B.jpg"
@@ -481,7 +481,7 @@
     "name": "Escudos"
   },
   {
-    "id": "38",
+    "id": 38,
     "images": {
       "front": "/coin-images/moneda38_A.jpg",
       "back": "/coin-images/moneda38_B.jpg"
@@ -494,7 +494,7 @@
     "name": "Escudos"
   },
   {
-    "id": "39",
+    "id": 39,
     "images": {
       "front": "/coin-images/moneda39_A.jpg",
       "back": "/coin-images/moneda39_B.jpg"
@@ -507,7 +507,7 @@
     "name": "Escudos"
   },
   {
-    "id": "40",
+    "id": 40,
     "images": {
       "front": "/coin-images/moneda40_A.jpg",
       "back": "/coin-images/moneda40_B.jpg"
@@ -520,7 +520,7 @@
     "name": "Escudos"
   },
   {
-    "id": "41",
+    "id": 41,
     "images": {
       "front": "/coin-images/moneda41_A.jpg",
       "back": "/coin-images/moneda41_B.jpg"
@@ -533,7 +533,7 @@
     "name": "Escudos"
   },
   {
-    "id": "42",
+    "id": 42,
     "images": {
       "front": "/coin-images/moneda42_A.jpg",
       "back": "/coin-images/moneda42_B.jpg"
@@ -546,7 +546,7 @@
     "name": "Cents"
   },
   {
-    "id": "43",
+    "id": 43,
     "images": {
       "front": "/coin-images/moneda43_A.jpg",
       "back": "/coin-images/moneda43_B.jpg"
@@ -559,7 +559,7 @@
     "name": "Gulden"
   },
   {
-    "id": "44",
+    "id": 44,
     "images": {
       "front": "/coin-images/moneda44_A.jpg",
       "back": "/coin-images/moneda44_B.jpg"
@@ -572,7 +572,7 @@
     "name": "Centimes"
   },
   {
-    "id": "45",
+    "id": 45,
     "images": {
       "front": "/coin-images/moneda45_A.jpg",
       "back": "/coin-images/moneda45_B.jpg"
@@ -585,7 +585,7 @@
     "name": "Centimes"
   },
   {
-    "id": "46",
+    "id": 46,
     "images": {
       "front": "/coin-images/moneda46_A.jpg",
       "back": "/coin-images/moneda46_B.jpg"
@@ -598,7 +598,7 @@
     "name": "Centimes"
   },
   {
-    "id": "47",
+    "id": 47,
     "images": {
       "front": "/coin-images/moneda47_A.jpg",
       "back": "/coin-images/moneda47_B.jpg"
@@ -611,7 +611,7 @@
     "name": "Franc"
   },
   {
-    "id": "48",
+    "id": 48,
     "images": {
       "front": "/coin-images/moneda48_A.jpg",
       "back": "/coin-images/moneda48_B.jpg"
@@ -624,7 +624,7 @@
     "name": "Franc"
   },
   {
-    "id": "49",
+    "id": 49,
     "images": {
       "front": "/coin-images/moneda49_A.jpg",
       "back": "/coin-images/moneda49_B.jpg"
@@ -637,7 +637,7 @@
     "name": "Franc"
   },
   {
-    "id": "50",
+    "id": 50,
     "images": {
       "front": "/coin-images/moneda50_A.jpg",
       "back": "/coin-images/moneda50_B.jpg"
@@ -650,7 +650,7 @@
     "name": "Francs"
   },
   {
-    "id": "51",
+    "id": 51,
     "images": {
       "front": "/coin-images/moneda51_A.jpg",
       "back": "/coin-images/moneda51_B.jpg"
@@ -663,7 +663,7 @@
     "name": "Francs"
   },
   {
-    "id": "52",
+    "id": 52,
     "images": {
       "front": "/coin-images/moneda52_A.jpg",
       "back": "/coin-images/moneda52_B.jpg"
@@ -676,7 +676,7 @@
     "name": "Francs"
   },
   {
-    "id": "53",
+    "id": 53,
     "images": {
       "front": "/coin-images/moneda53_A.jpg",
       "back": "/coin-images/moneda53_B.jpg"
@@ -689,7 +689,7 @@
     "name": "Francs"
   },
   {
-    "id": "54",
+    "id": 54,
     "images": {
       "front": "/coin-images/moneda54_A.jpg",
       "back": "/coin-images/moneda54_B.jpg"
@@ -702,7 +702,7 @@
     "name": "Francs"
   },
   {
-    "id": "55",
+    "id": 55,
     "images": {
       "front": "/coin-images/moneda55_A.jpg",
       "back": "/coin-images/moneda55_B.jpg"
@@ -715,7 +715,7 @@
     "name": "Rappen"
   },
   {
-    "id": "56",
+    "id": 56,
     "images": {
       "front": "/coin-images/moneda56_A.jpg",
       "back": "/coin-images/moneda56_B.jpg"
@@ -728,7 +728,7 @@
     "name": "Rappen"
   },
   {
-    "id": "57",
+    "id": 57,
     "images": {
       "front": "/coin-images/moneda57_A.jpg",
       "back": "/coin-images/moneda57_B.jpg"
@@ -741,7 +741,7 @@
     "name": "Rappen"
   },
   {
-    "id": "58",
+    "id": 58,
     "images": {
       "front": "/coin-images/moneda58_A.jpg",
       "back": "/coin-images/moneda58_B.jpg"
@@ -754,7 +754,7 @@
     "name": "Rappen"
   },
   {
-    "id": "59",
+    "id": 59,
     "images": {
       "front": "/coin-images/moneda59_A.jpg",
       "back": "/coin-images/moneda59_B.jpg"
@@ -767,7 +767,7 @@
     "name": "Franc"
   },
   {
-    "id": "60",
+    "id": 60,
     "images": {
       "front": "/coin-images/moneda60_A.jpg",
       "back": "/coin-images/moneda60_B.jpg"
@@ -780,7 +780,7 @@
     "name": "Franc"
   },
   {
-    "id": "61",
+    "id": 61,
     "images": {
       "front": "/coin-images/moneda61_A.jpg",
       "back": "/coin-images/moneda61_B.jpg"
@@ -793,7 +793,7 @@
     "name": "Groschen"
   },
   {
-    "id": "62",
+    "id": 62,
     "images": {
       "front": "/coin-images/moneda62_A.jpg",
       "back": "/coin-images/moneda62_B.jpg"
@@ -806,7 +806,7 @@
     "name": "Groschen"
   },
   {
-    "id": "63",
+    "id": 63,
     "images": {
       "front": "/coin-images/moneda63_A.jpg",
       "back": "/coin-images/moneda63_B.jpg"
@@ -819,7 +819,7 @@
     "name": "Schilling"
   },
   {
-    "id": "64",
+    "id": 64,
     "images": {
       "front": "/coin-images/moneda64_A.jpg",
       "back": "/coin-images/moneda64_B.jpg"
@@ -832,7 +832,7 @@
     "name": "Schilling"
   },
   {
-    "id": "65",
+    "id": 65,
     "images": {
       "front": "/coin-images/moneda65_A.jpg",
       "back": "/coin-images/moneda65_B.jpg"
@@ -845,7 +845,7 @@
     "name": "Schilling"
   },
   {
-    "id": "66",
+    "id": 66,
     "images": {
       "front": "/coin-images/moneda66_A.jpg",
       "back": "/coin-images/moneda66_B.jpg"
@@ -858,7 +858,7 @@
     "name": "Schilling"
   },
   {
-    "id": "67",
+    "id": 67,
     "images": {
       "front": "/coin-images/moneda67_A.jpg",
       "back": "/coin-images/moneda67_B.jpg"
@@ -871,7 +871,7 @@
     "name": "Kopecks"
   },
   {
-    "id": "68",
+    "id": 68,
     "images": {
       "front": "/coin-images/moneda68_A.jpg",
       "back": "/coin-images/moneda68_B.jpg"
@@ -884,7 +884,7 @@
     "name": "Kopecks"
   },
   {
-    "id": "69",
+    "id": 69,
     "images": {
       "front": "/coin-images/moneda69_A.jpg",
       "back": "/coin-images/moneda69_B.jpg"
@@ -897,7 +897,7 @@
     "name": "Kopecks"
   },
   {
-    "id": "70",
+    "id": 70,
     "images": {
       "front": "/coin-images/moneda70_A.jpg",
       "back": "/coin-images/moneda70_B.jpg"
@@ -910,7 +910,7 @@
     "name": "Kopecks"
   },
   {
-    "id": "71",
+    "id": 71,
     "images": {
       "front": "/coin-images/moneda71_A.jpg",
       "back": "/coin-images/moneda71_B.jpg"
@@ -923,7 +923,7 @@
     "name": "Centavos"
   },
   {
-    "id": "72",
+    "id": 72,
     "images": {
       "front": "/coin-images/moneda72_A.jpg",
       "back": "/coin-images/moneda72_B.jpg"
@@ -936,7 +936,7 @@
     "name": "Ore"
   },
   {
-    "id": "73",
+    "id": 73,
     "images": {
       "front": "/coin-images/moneda73_A.jpg",
       "back": "/coin-images/moneda73_B.jpg"
@@ -949,7 +949,7 @@
     "name": "Ore"
   },
   {
-    "id": "74",
+    "id": 74,
     "images": {
       "front": "/coin-images/moneda74_A.jpg",
       "back": "/coin-images/moneda74_B.jpg"
@@ -962,7 +962,7 @@
     "name": "Ore"
   },
   {
-    "id": "75",
+    "id": 75,
     "images": {
       "front": "/coin-images/moneda75_A.jpg",
       "back": "/coin-images/moneda75_B.jpg"
@@ -975,7 +975,7 @@
     "name": "Ore"
   },
   {
-    "id": "76",
+    "id": 76,
     "images": {
       "front": "/coin-images/moneda76_A.jpg",
       "back": "/coin-images/moneda76_B.jpg"
@@ -988,7 +988,7 @@
     "name": "Ore"
   },
   {
-    "id": "77",
+    "id": 77,
     "images": {
       "front": "/coin-images/moneda77_A.jpg",
       "back": "/coin-images/moneda77_B.jpg"
@@ -1001,7 +1001,7 @@
     "name": "Ore"
   },
   {
-    "id": "78",
+    "id": 78,
     "images": {
       "front": "/coin-images/moneda78_A.jpg",
       "back": "/coin-images/moneda78_B.jpg"
@@ -1014,7 +1014,7 @@
     "name": "Milliemes"
   },
   {
-    "id": "79",
+    "id": 79,
     "images": {
       "front": "/coin-images/moneda79_A.jpg",
       "back": "/coin-images/moneda79_B.jpg"
@@ -1027,7 +1027,7 @@
     "name": "Lire"
   },
   {
-    "id": "80",
+    "id": 80,
     "images": {
       "front": "/coin-images/moneda80_A.jpg",
       "back": "/coin-images/moneda80_B.jpg"
@@ -1040,7 +1040,7 @@
     "name": "Lire"
   },
   {
-    "id": "81",
+    "id": 81,
     "images": {
       "front": "/coin-images/moneda81_A.jpg",
       "back": "/coin-images/moneda81_B.jpg"
@@ -1053,7 +1053,7 @@
     "name": "Lire"
   },
   {
-    "id": "82",
+    "id": 82,
     "images": {
       "front": "/coin-images/moneda82_A.jpg",
       "back": "/coin-images/moneda82_B.jpg"
@@ -1066,7 +1066,7 @@
     "name": "Lire"
   },
   {
-    "id": "83",
+    "id": 83,
     "images": {
       "front": "/coin-images/moneda83_A.jpg",
       "back": "/coin-images/moneda83_B.jpg"
@@ -1079,7 +1079,7 @@
     "name": "Koruna"
   },
   {
-    "id": "84",
+    "id": 84,
     "images": {
       "front": "/coin-images/moneda84_A.jpg",
       "back": "/coin-images/moneda84_B.jpg"
@@ -1092,7 +1092,7 @@
     "name": "Koruny"
   },
   {
-    "id": "85",
+    "id": 85,
     "images": {
       "front": "/coin-images/moneda85_A.jpg",
       "back": "/coin-images/moneda85_B.jpg"
@@ -1105,7 +1105,7 @@
     "name": "Korun"
   },
   {
-    "id": "86",
+    "id": 86,
     "images": {
       "front": "/coin-images/moneda86_A.jpg",
       "back": "/coin-images/moneda86_B.jpg"
@@ -1118,7 +1118,7 @@
     "name": "Korun"
   },
   {
-    "id": "87",
+    "id": 87,
     "images": {
       "front": "/coin-images/moneda87_A.jpg",
       "back": "/coin-images/moneda87_B.jpg"
@@ -1131,7 +1131,7 @@
     "name": "Korun"
   },
   {
-    "id": "88",
+    "id": 88,
     "images": {
       "front": "/coin-images/moneda88_A.jpg",
       "back": "/coin-images/moneda88_B.jpg"
@@ -1144,7 +1144,7 @@
     "name": "Forint"
   },
   {
-    "id": "89",
+    "id": 89,
     "images": {
       "front": "/coin-images/moneda89_A.jpg",
       "back": "/coin-images/moneda89_B.jpg"
@@ -1157,7 +1157,7 @@
     "name": "Forint"
   },
   {
-    "id": "90",
+    "id": 90,
     "images": {
       "front": "/coin-images/moneda90_A.jpg",
       "back": "/coin-images/moneda90_B.jpg"
@@ -1170,7 +1170,7 @@
     "name": "Ore"
   },
   {
-    "id": "91",
+    "id": 91,
     "images": {
       "front": "/coin-images/moneda91_A.jpg",
       "back": "/coin-images/moneda91_B.jpg"
@@ -1183,7 +1183,7 @@
     "name": "Ore"
   },
   {
-    "id": "92",
+    "id": 92,
     "images": {
       "front": "/coin-images/moneda92_A.jpg",
       "back": "/coin-images/moneda92_B.jpg"
@@ -1196,7 +1196,7 @@
     "name": "Peso"
   },
   {
-    "id": "93",
+    "id": 93,
     "images": {
       "front": "/coin-images/moneda93_A.jpg",
       "back": "/coin-images/moneda93_B.jpg"
@@ -1209,7 +1209,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "94",
+    "id": 94,
     "images": {
       "front": "/coin-images/moneda94_A.jpg",
       "back": "/coin-images/moneda94_B.jpg"
@@ -1222,7 +1222,7 @@
     "name": "Franc"
   },
   {
-    "id": "95",
+    "id": 95,
     "images": {
       "front": "/coin-images/moneda95_A.jpg",
       "back": "/coin-images/moneda95_B.jpg"
@@ -1235,7 +1235,7 @@
     "name": "Cents"
   },
   {
-    "id": "96",
+    "id": 96,
     "images": {
       "front": "/coin-images/moneda96_A.jpg",
       "back": "/coin-images/moneda96_B.jpg"
@@ -1248,7 +1248,7 @@
     "name": "Dollar"
   },
   {
-    "id": "97",
+    "id": 97,
     "images": {
       "front": "/coin-images/moneda97_A.jpg",
       "back": "/coin-images/moneda97_B.jpg"
@@ -1256,12 +1256,12 @@
     "country": "Rodesia y Nyasalandia",
     "year": 1954,
     "value": 1,
-    "other": "\"Actual Rodesia",
-    "parent": " Zambia y Malaui.\"",
+    "other": "Actual Rodesia, Zambia y Malaui.",
+    "parent": "",
     "name": "Shilling"
   },
   {
-    "id": "98",
+    "id": 98,
     "images": {
       "front": "/coin-images/moneda98_A.jpg",
       "back": "/coin-images/moneda98_B.jpg"
@@ -1274,7 +1274,7 @@
     "name": "Mark"
   },
   {
-    "id": "99",
+    "id": 99,
     "images": {
       "front": "/coin-images/moneda99_A.jpg",
       "back": "/coin-images/moneda99_B.jpg"
@@ -1287,7 +1287,7 @@
     "name": "Mark"
   },
   {
-    "id": "100",
+    "id": 100,
     "images": {
       "front": "/coin-images/moneda100_A.jpg",
       "back": "/coin-images/moneda100_B.jpg"
@@ -1300,7 +1300,7 @@
     "name": "Penny"
   },
   {
-    "id": "101",
+    "id": 101,
     "images": {
       "front": "/coin-images/moneda101_A.jpg",
       "back": "/coin-images/moneda101_B.jpg"
@@ -1313,7 +1313,7 @@
     "name": "Drachmai"
   },
   {
-    "id": "102",
+    "id": 102,
     "images": {
       "front": "/coin-images/moneda102_A.jpg",
       "back": "/coin-images/moneda102_B.jpg"
@@ -1326,7 +1326,7 @@
     "name": "Escudos"
   },
   {
-    "id": "103",
+    "id": 103,
     "images": {
       "front": "/coin-images/moneda103_A.jpg",
       "back": "/coin-images/moneda103_B.jpg"
@@ -1339,7 +1339,7 @@
     "name": "Francs"
   },
   {
-    "id": "104",
+    "id": 104,
     "images": {
       "front": "/coin-images/moneda104_A.jpg",
       "back": "/coin-images/moneda104_B.jpg"
@@ -1352,7 +1352,7 @@
     "name": "Korun"
   },
   {
-    "id": "105",
+    "id": 105,
     "images": {
       "front": "/coin-images/moneda105_A.jpg",
       "back": "/coin-images/moneda105_B.jpg"
@@ -1365,10 +1365,10 @@
     "name": "Pesetas"
   },
   {
-    "id": "106",
+    "id": 106,
     "images": {
-      "front": "/coin-images/moneda106_A.jpg",
-      "back": "/coin-images/moneda106_B.jpg"
+      "front": "/coin-images/moneda65_A.jpg",
+      "back": "/coin-images/moneda65_B.jpg"
     },
     "country": "Austria",
     "year": 1959,
@@ -1378,10 +1378,10 @@
     "name": "Shilling"
   },
   {
-    "id": "107",
+    "id": 107,
     "images": {
-      "front": "/coin-images/moneda107_A.jpg",
-      "back": "/coin-images/moneda107_B.jpg"
+      "front": "/coin-images/moneda57_A.jpg",
+      "back": "/coin-images/moneda57_B.jpg"
     },
     "country": "Suiza",
     "year": 2009,
@@ -1391,10 +1391,10 @@
     "name": "Rappen"
   },
   {
-    "id": "108",
+    "id": 108,
     "images": {
-      "front": "/coin-images/moneda108_A.jpg",
-      "back": "/coin-images/moneda108_B.jpg"
+      "front": "/coin-images/moneda49_A.jpg",
+      "back": "/coin-images/moneda49_B.jpg"
     },
     "country": "Francia",
     "year": 1960,
@@ -1404,10 +1404,10 @@
     "name": "Franc"
   },
   {
-    "id": "109",
+    "id": 109,
     "images": {
-      "front": "/coin-images/moneda109_A.jpg",
-      "back": "/coin-images/moneda109_B.jpg"
+      "front": "/coin-images/moneda40_A.jpg",
+      "back": "/coin-images/moneda40_B.jpg"
     },
     "country": "Portugal",
     "year": 1999,
@@ -1417,10 +1417,10 @@
     "name": "Escudos"
   },
   {
-    "id": "110",
+    "id": 110,
     "images": {
-      "front": "/coin-images/moneda110_A.jpg",
-      "back": "/coin-images/moneda110_B.jpg"
+      "front": "/coin-images/moneda40_A.jpg",
+      "back": "/coin-images/moneda40_B.jpg"
     },
     "country": "Portugal",
     "year": 1988,
@@ -1430,10 +1430,10 @@
     "name": "Escudos"
   },
   {
-    "id": "111",
+    "id": 111,
     "images": {
-      "front": "/coin-images/moneda111_A.jpg",
-      "back": "/coin-images/moneda111_B.jpg"
+      "front": "/coin-images/moneda12_A.jpg",
+      "back": "/coin-images/moneda12_B.jpg"
     },
     "country": "Alemania",
     "year": 1984,
@@ -1443,10 +1443,10 @@
     "name": "Mark"
   },
   {
-    "id": "112",
+    "id": 112,
     "images": {
-      "front": "/coin-images/moneda112_A.jpg",
-      "back": "/coin-images/moneda112_B.jpg"
+      "front": "/coin-images/moneda12_A.jpg",
+      "back": "/coin-images/moneda12_B.jpg"
     },
     "country": "Alemania",
     "year": 1971,
@@ -1456,10 +1456,10 @@
     "name": "Mark"
   },
   {
-    "id": "113",
+    "id": 113,
     "images": {
-      "front": "/coin-images/moneda113_A.jpg",
-      "back": "/coin-images/moneda113_B.jpg"
+      "front": "/coin-images/moneda12_A.jpg",
+      "back": "/coin-images/moneda12_B.jpg"
     },
     "country": "Alemania",
     "year": 1977,
@@ -1469,10 +1469,10 @@
     "name": "Mark"
   },
   {
-    "id": "114",
+    "id": 114,
     "images": {
-      "front": "/coin-images/moneda114_A.jpg",
-      "back": "/coin-images/moneda114_B.jpg"
+      "front": "/coin-images/moneda1_A.jpg",
+      "back": "/coin-images/moneda1_B.jpg"
     },
     "country": "Alemania",
     "year": 1966,
@@ -1482,10 +1482,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "115",
+    "id": 115,
     "images": {
-      "front": "/coin-images/moneda115_A.jpg",
-      "back": "/coin-images/moneda115_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1973,
@@ -1495,10 +1495,10 @@
     "name": "Krona"
   },
   {
-    "id": "116",
+    "id": 116,
     "images": {
-      "front": "/coin-images/moneda116_A.jpg",
-      "back": "/coin-images/moneda116_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1978,
@@ -1508,10 +1508,10 @@
     "name": "Centimes"
   },
   {
-    "id": "117",
+    "id": 117,
     "images": {
-      "front": "/coin-images/moneda117_A.jpg",
-      "back": "/coin-images/moneda117_B.jpg"
+      "front": "/coin-images/moneda81_A.jpg",
+      "back": "/coin-images/moneda81_B.jpg"
     },
     "country": "Italia",
     "year": 1958,
@@ -1521,10 +1521,10 @@
     "name": "Lire"
   },
   {
-    "id": "118",
+    "id": 118,
     "images": {
-      "front": "/coin-images/moneda118_A.jpg",
-      "back": "/coin-images/moneda118_B.jpg"
+      "front": "/coin-images/moneda28_A.jpg",
+      "back": "/coin-images/moneda28_B.jpg"
     },
     "country": "Grecia",
     "year": 1954,
@@ -1534,10 +1534,10 @@
     "name": "Lepta"
   },
   {
-    "id": "119",
+    "id": 119,
     "images": {
-      "front": "/coin-images/moneda119_A.jpg",
-      "back": "/coin-images/moneda119_B.jpg"
+      "front": "/coin-images/moneda82_A.jpg",
+      "back": "/coin-images/moneda82_B.jpg"
     },
     "country": "Italia",
     "year": 1955,
@@ -1547,10 +1547,10 @@
     "name": "Lire"
   },
   {
-    "id": "120",
+    "id": 120,
     "images": {
-      "front": "/coin-images/moneda120_A.jpg",
-      "back": "/coin-images/moneda120_B.jpg"
+      "front": "/coin-images/moneda43_A.jpg",
+      "back": "/coin-images/moneda43_B.jpg"
     },
     "country": "Holanda",
     "year": 1958,
@@ -1560,10 +1560,10 @@
     "name": "Gulden"
   },
   {
-    "id": "121",
+    "id": 121,
     "images": {
-      "front": "/coin-images/moneda121_A.jpg",
-      "back": "/coin-images/moneda121_B.jpg"
+      "front": "/coin-images/moneda10_A.jpg",
+      "back": "/coin-images/moneda10_B.jpg"
     },
     "country": "Alemania",
     "year": 1990,
@@ -1573,10 +1573,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "122",
+    "id": 122,
     "images": {
-      "front": "/coin-images/moneda122_A.jpg",
-      "back": "/coin-images/moneda122_B.jpg"
+      "front": "/coin-images/moneda88_A.jpg",
+      "back": "/coin-images/moneda88_B.jpg"
     },
     "country": "Hungría",
     "year": 1967,
@@ -1586,10 +1586,10 @@
     "name": "Forint"
   },
   {
-    "id": "123",
+    "id": 123,
     "images": {
-      "front": "/coin-images/moneda123_A.jpg",
-      "back": "/coin-images/moneda123_B.jpg"
+      "front": "/coin-images/moneda61_A.jpg",
+      "back": "/coin-images/moneda61_B.jpg"
     },
     "country": "Austria",
     "year": 1970,
@@ -1599,10 +1599,10 @@
     "name": "Groschen"
   },
   {
-    "id": "124",
+    "id": 124,
     "images": {
-      "front": "/coin-images/moneda124_A.jpg",
-      "back": "/coin-images/moneda124_B.jpg"
+      "front": "/coin-images/moneda64_A.jpg",
+      "back": "/coin-images/moneda64_B.jpg"
     },
     "country": "Austria",
     "year": 1977,
@@ -1612,10 +1612,10 @@
     "name": "Schilling"
   },
   {
-    "id": "125",
+    "id": 125,
     "images": {
-      "front": "/coin-images/moneda125_A.jpg",
-      "back": "/coin-images/moneda125_B.jpg"
+      "front": "/coin-images/moneda56_A.jpg",
+      "back": "/coin-images/moneda56_B.jpg"
     },
     "country": "Suiza",
     "year": 1968,
@@ -1625,10 +1625,10 @@
     "name": "Rappen"
   },
   {
-    "id": "126",
+    "id": 126,
     "images": {
-      "front": "/coin-images/moneda126_A.jpg",
-      "back": "/coin-images/moneda126_B.jpg"
+      "front": "/coin-images/moneda64_A.jpg",
+      "back": "/coin-images/moneda64_B.jpg"
     },
     "country": "Austria",
     "year": 1961,
@@ -1638,10 +1638,10 @@
     "name": "Schilling"
   },
   {
-    "id": "127",
+    "id": 127,
     "images": {
-      "front": "/coin-images/moneda127_A.jpg",
-      "back": "/coin-images/moneda127_B.jpg"
+      "front": "/coin-images/moneda69_A.jpg",
+      "back": "/coin-images/moneda69_B.jpg"
     },
     "country": "Unión Soviética",
     "year": 1957,
@@ -1651,10 +1651,10 @@
     "name": "Kopecks"
   },
   {
-    "id": "128",
+    "id": 128,
     "images": {
-      "front": "/coin-images/moneda128_A.jpg",
-      "back": "/coin-images/moneda128_B.jpg"
+      "front": "/coin-images/moneda56_A.jpg",
+      "back": "/coin-images/moneda56_B.jpg"
     },
     "country": "Suiza",
     "year": 1946,
@@ -1664,10 +1664,10 @@
     "name": "Rappen"
   },
   {
-    "id": "129",
+    "id": 129,
     "images": {
-      "front": "/coin-images/moneda129_A.jpg",
-      "back": "/coin-images/moneda129_B.jpg"
+      "front": "/coin-images/moneda61_A.jpg",
+      "back": "/coin-images/moneda61_B.jpg"
     },
     "country": "Austria",
     "year": 1962,
@@ -1677,10 +1677,10 @@
     "name": "Groschen"
   },
   {
-    "id": "130",
+    "id": 130,
     "images": {
-      "front": "/coin-images/moneda130_A.jpg",
-      "back": "/coin-images/moneda130_B.jpg"
+      "front": "/coin-images/moneda52_A.jpg",
+      "back": "/coin-images/moneda52_B.jpg"
     },
     "country": "Francia",
     "year": 1991,
@@ -1690,10 +1690,10 @@
     "name": "Francs"
   },
   {
-    "id": "131",
+    "id": 131,
     "images": {
-      "front": "/coin-images/moneda131_A.jpg",
-      "back": "/coin-images/moneda131_B.jpg"
+      "front": "/coin-images/moneda58_A.jpg",
+      "back": "/coin-images/moneda58_B.jpg"
     },
     "country": "Suiza",
     "year": 1993,
@@ -1703,10 +1703,10 @@
     "name": "Rappen"
   },
   {
-    "id": "132",
+    "id": 132,
     "images": {
-      "front": "/coin-images/moneda132_A.jpg",
-      "back": "/coin-images/moneda132_B.jpg"
+      "front": "/coin-images/moneda34_A.jpg",
+      "back": "/coin-images/moneda34_B.jpg"
     },
     "country": "Portugal",
     "year": 1973,
@@ -1716,10 +1716,10 @@
     "name": "Centavos"
   },
   {
-    "id": "128",
+    "id": 128,
     "images": {
-      "front": "/coin-images/moneda128_A.jpg",
-      "back": "/coin-images/moneda128_B.jpg"
+      "front": "/coin-images/moneda56_A.jpg",
+      "back": "/coin-images/moneda56_B.jpg"
     },
     "country": "Suiza",
     "year": 1967,
@@ -1729,10 +1729,10 @@
     "name": "Rappen"
   },
   {
-    "id": "129",
+    "id": 129,
     "images": {
-      "front": "/coin-images/moneda129_A.jpg",
-      "back": "/coin-images/moneda129_B.jpg"
+      "front": "/coin-images/moneda27_A.jpg",
+      "back": "/coin-images/moneda27_B.jpg"
     },
     "country": "Grecia",
     "year": 1954,
@@ -1742,10 +1742,10 @@
     "name": "Lepta"
   },
   {
-    "id": "130",
+    "id": 130,
     "images": {
-      "front": "/coin-images/moneda130_A.jpg",
-      "back": "/coin-images/moneda130_B.jpg"
+      "front": "/coin-images/moneda75_A.jpg",
+      "back": "/coin-images/moneda75_B.jpg"
     },
     "country": "Noruega",
     "year": 1960,
@@ -1755,10 +1755,10 @@
     "name": "Ore"
   },
   {
-    "id": "131",
+    "id": 131,
     "images": {
-      "front": "/coin-images/moneda131_A.jpg",
-      "back": "/coin-images/moneda131_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1961,
@@ -1768,10 +1768,10 @@
     "name": "Krona"
   },
   {
-    "id": "132",
+    "id": 132,
     "images": {
-      "front": "/coin-images/moneda132_A.jpg",
-      "back": "/coin-images/moneda132_B.jpg"
+      "front": "/coin-images/moneda39_A.jpg",
+      "back": "/coin-images/moneda39_B.jpg"
     },
     "country": "Portugal",
     "year": 1987,
@@ -1781,10 +1781,10 @@
     "name": "Escudos"
   },
   {
-    "id": "133",
+    "id": 133,
     "images": {
-      "front": "/coin-images/moneda133_A.jpg",
-      "back": "/coin-images/moneda133_B.jpg"
+      "front": "/coin-images/moneda64_A.jpg",
+      "back": "/coin-images/moneda64_B.jpg"
     },
     "country": "Austria",
     "year": 1980,
@@ -1794,10 +1794,10 @@
     "name": "Schilling"
   },
   {
-    "id": "134",
+    "id": 134,
     "images": {
-      "front": "/coin-images/moneda134_A.jpg",
-      "back": "/coin-images/moneda134_B.jpg"
+      "front": "/coin-images/moneda52_A.jpg",
+      "back": "/coin-images/moneda52_B.jpg"
     },
     "country": "Francia",
     "year": 1991,
@@ -1807,10 +1807,10 @@
     "name": "Francs"
   },
   {
-    "id": "135",
+    "id": 135,
     "images": {
-      "front": "/coin-images/moneda135_A.jpg",
-      "back": "/coin-images/moneda135_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1970,
@@ -1820,10 +1820,10 @@
     "name": "Krona"
   },
   {
-    "id": "136",
+    "id": 136,
     "images": {
-      "front": "/coin-images/moneda136_A.jpg",
-      "back": "/coin-images/moneda136_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1973,
@@ -1833,10 +1833,10 @@
     "name": "Krona"
   },
   {
-    "id": "137",
+    "id": 137,
     "images": {
-      "front": "/coin-images/moneda137_A.jpg",
-      "back": "/coin-images/moneda137_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1964,
@@ -1846,10 +1846,10 @@
     "name": "Krona"
   },
   {
-    "id": "138",
+    "id": 138,
     "images": {
-      "front": "/coin-images/moneda138_A.jpg",
-      "back": "/coin-images/moneda138_B.jpg"
+      "front": "/coin-images/moneda52_A.jpg",
+      "back": "/coin-images/moneda52_B.jpg"
     },
     "country": "Francia",
     "year": 1988,
@@ -1859,10 +1859,10 @@
     "name": "Francs"
   },
   {
-    "id": "139",
+    "id": 139,
     "images": {
-      "front": "/coin-images/moneda139_A.jpg",
-      "back": "/coin-images/moneda139_B.jpg"
+      "front": "/coin-images/moneda51_A.jpg",
+      "back": "/coin-images/moneda51_B.jpg"
     },
     "country": "Francia",
     "year": 1982,
@@ -1872,10 +1872,10 @@
     "name": "Francs"
   },
   {
-    "id": "140",
+    "id": 140,
     "images": {
-      "front": "/coin-images/moneda140_A.jpg",
-      "back": "/coin-images/moneda140_B.jpg"
+      "front": "/coin-images/moneda51_A.jpg",
+      "back": "/coin-images/moneda51_B.jpg"
     },
     "country": "Francia",
     "year": 1981,
@@ -1885,10 +1885,10 @@
     "name": "Francs"
   },
   {
-    "id": "141",
+    "id": 141,
     "images": {
-      "front": "/coin-images/moneda141_A.jpg",
-      "back": "/coin-images/moneda141_B.jpg"
+      "front": "/coin-images/moneda51_A.jpg",
+      "back": "/coin-images/moneda51_B.jpg"
     },
     "country": "Francia",
     "year": 1982,
@@ -1898,10 +1898,10 @@
     "name": "Francs"
   },
   {
-    "id": "142",
+    "id": 142,
     "images": {
-      "front": "/coin-images/moneda142_A.jpg",
-      "back": "/coin-images/moneda142_B.jpg"
+      "front": "/coin-images/moneda51_A.jpg",
+      "back": "/coin-images/moneda51_B.jpg"
     },
     "country": "Francia",
     "year": 1982,
@@ -1911,10 +1911,10 @@
     "name": "Francs"
   },
   {
-    "id": "143",
+    "id": 143,
     "images": {
-      "front": "/coin-images/moneda143_A.jpg",
-      "back": "/coin-images/moneda143_B.jpg"
+      "front": "/coin-images/moneda51_A.jpg",
+      "back": "/coin-images/moneda51_B.jpg"
     },
     "country": "Francia",
     "year": 1982,
@@ -1924,10 +1924,10 @@
     "name": "Francs"
   },
   {
-    "id": "144",
+    "id": 144,
     "images": {
-      "front": "/coin-images/moneda144_A.jpg",
-      "back": "/coin-images/moneda144_B.jpg"
+      "front": "/coin-images/moneda59_A.jpg",
+      "back": "/coin-images/moneda59_B.jpg"
     },
     "country": "Suiza",
     "year": 1987,
@@ -1937,10 +1937,10 @@
     "name": "Franc"
   },
   {
-    "id": "145",
+    "id": 145,
     "images": {
-      "front": "/coin-images/moneda145_A.jpg",
-      "back": "/coin-images/moneda145_B.jpg"
+      "front": "/coin-images/moneda45_A.jpg",
+      "back": "/coin-images/moneda45_B.jpg"
     },
     "country": "Francia",
     "year": 1978,
@@ -1950,10 +1950,10 @@
     "name": "Centimes"
   },
   {
-    "id": "146",
+    "id": 146,
     "images": {
-      "front": "/coin-images/moneda146_A.jpg",
-      "back": "/coin-images/moneda146_B.jpg"
+      "front": "/coin-images/moneda45_A.jpg",
+      "back": "/coin-images/moneda45_B.jpg"
     },
     "country": "Francia",
     "year": 1994,
@@ -1963,10 +1963,10 @@
     "name": "Centimes"
   },
   {
-    "id": "147",
+    "id": 147,
     "images": {
-      "front": "/coin-images/moneda147_A.jpg",
-      "back": "/coin-images/moneda147_B.jpg"
+      "front": "/coin-images/moneda60_A.jpg",
+      "back": "/coin-images/moneda60_B.jpg"
     },
     "country": "Suiza",
     "year": 1987,
@@ -1976,10 +1976,10 @@
     "name": "Franc"
   },
   {
-    "id": "148",
+    "id": 148,
     "images": {
-      "front": "/coin-images/moneda148_A.jpg",
-      "back": "/coin-images/moneda148_B.jpg"
+      "front": "/coin-images/moneda81_A.jpg",
+      "back": "/coin-images/moneda81_B.jpg"
     },
     "country": "Italia",
     "year": 1958,
@@ -1989,10 +1989,10 @@
     "name": "Lire"
   },
   {
-    "id": "149",
+    "id": 149,
     "images": {
-      "front": "/coin-images/moneda149_A.jpg",
-      "back": "/coin-images/moneda149_B.jpg"
+      "front": "/coin-images/moneda38_A.jpg",
+      "back": "/coin-images/moneda38_B.jpg"
     },
     "country": "Portugal",
     "year": 1990,
@@ -2002,10 +2002,10 @@
     "name": "Escudos"
   },
   {
-    "id": "150",
+    "id": 150,
     "images": {
-      "front": "/coin-images/moneda150_A.jpg",
-      "back": "/coin-images/moneda150_B.jpg"
+      "front": "/coin-images/moneda39_A.jpg",
+      "back": "/coin-images/moneda39_B.jpg"
     },
     "country": "Portugal",
     "year": 1987,
@@ -2015,10 +2015,10 @@
     "name": "Escudos"
   },
   {
-    "id": "151",
+    "id": 151,
     "images": {
-      "front": "/coin-images/moneda151_A.jpg",
-      "back": "/coin-images/moneda151_B.jpg"
+      "front": "/coin-images/moneda39_A.jpg",
+      "back": "/coin-images/moneda39_B.jpg"
     },
     "country": "Portugal",
     "year": 1988,
@@ -2028,10 +2028,10 @@
     "name": "Escudos"
   },
   {
-    "id": "152",
+    "id": 152,
     "images": {
-      "front": "/coin-images/moneda152_A.jpg",
-      "back": "/coin-images/moneda152_B.jpg"
+      "front": "/coin-images/moneda10_A.jpg",
+      "back": "/coin-images/moneda10_B.jpg"
     },
     "country": "Alemania",
     "year": 1971,
@@ -2041,10 +2041,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "153",
+    "id": 153,
     "images": {
-      "front": "/coin-images/moneda153_A.jpg",
-      "back": "/coin-images/moneda153_B.jpg"
+      "front": "/coin-images/moneda1_A.jpg",
+      "back": "/coin-images/moneda1_B.jpg"
     },
     "country": "Alemania",
     "year": 1978,
@@ -2054,10 +2054,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "154",
+    "id": 154,
     "images": {
-      "front": "/coin-images/moneda154_A.jpg",
-      "back": "/coin-images/moneda154_B.jpg"
+      "front": "/coin-images/moneda74_A.jpg",
+      "back": "/coin-images/moneda74_B.jpg"
     },
     "country": "Noruega",
     "year": 1955,
@@ -2067,10 +2067,10 @@
     "name": "Ore"
   },
   {
-    "id": "155",
+    "id": 155,
     "images": {
-      "front": "/coin-images/moneda155_A.jpg",
-      "back": "/coin-images/moneda155_B.jpg"
+      "front": "/coin-images/moneda4_A.jpg",
+      "back": "/coin-images/moneda4_B.jpg"
     },
     "country": "Alemania",
     "year": 1959,
@@ -2080,10 +2080,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "156",
+    "id": 156,
     "images": {
-      "front": "/coin-images/moneda156_A.jpg",
-      "back": "/coin-images/moneda156_B.jpg"
+      "front": "/coin-images/moneda59_A.jpg",
+      "back": "/coin-images/moneda59_B.jpg"
     },
     "country": "Suiza",
     "year": 1990,
@@ -2093,10 +2093,10 @@
     "name": "Franc"
   },
   {
-    "id": "157",
+    "id": 157,
     "images": {
-      "front": "/coin-images/moneda157_A.jpg",
-      "back": "/coin-images/moneda157_B.jpg"
+      "front": "/coin-images/moneda79_A.jpg",
+      "back": "/coin-images/moneda79_B.jpg"
     },
     "country": "Italia",
     "year": 1953,
@@ -2106,10 +2106,10 @@
     "name": "Lire"
   },
   {
-    "id": "158",
+    "id": 158,
     "images": {
-      "front": "/coin-images/moneda158_A.jpg",
-      "back": "/coin-images/moneda158_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1967,
@@ -2119,10 +2119,10 @@
     "name": "Centimes"
   },
   {
-    "id": "159",
+    "id": 159,
     "images": {
-      "front": "/coin-images/moneda159_A.jpg",
-      "back": "/coin-images/moneda159_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1974,
@@ -2132,10 +2132,10 @@
     "name": "Centimes"
   },
   {
-    "id": "160",
+    "id": 160,
     "images": {
-      "front": "/coin-images/moneda160_A.jpg",
-      "back": "/coin-images/moneda160_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1978,
@@ -2145,10 +2145,10 @@
     "name": "Centimes"
   },
   {
-    "id": "161",
+    "id": 161,
     "images": {
-      "front": "/coin-images/moneda161_A.jpg",
-      "back": "/coin-images/moneda161_B.jpg"
+      "front": "/coin-images/moneda39_A.jpg",
+      "back": "/coin-images/moneda39_B.jpg"
     },
     "country": "Portugal",
     "year": 1988,
@@ -2158,10 +2158,10 @@
     "name": "Escudos"
   },
   {
-    "id": "162",
+    "id": 162,
     "images": {
-      "front": "/coin-images/moneda162_A.jpg",
-      "back": "/coin-images/moneda162_B.jpg"
+      "front": "/coin-images/moneda49_A.jpg",
+      "back": "/coin-images/moneda49_B.jpg"
     },
     "country": "Francia",
     "year": 1969,
@@ -2171,10 +2171,10 @@
     "name": "Franc"
   },
   {
-    "id": "163",
+    "id": 163,
     "images": {
-      "front": "/coin-images/moneda163_A.jpg",
-      "back": "/coin-images/moneda163_B.jpg"
+      "front": "/coin-images/moneda25_A.jpg",
+      "back": "/coin-images/moneda25_B.jpg"
     },
     "country": "Suecia",
     "year": 1970,
@@ -2184,10 +2184,10 @@
     "name": "Krona"
   },
   {
-    "id": "164",
+    "id": 164,
     "images": {
-      "front": "/coin-images/moneda164_A.jpg",
-      "back": "/coin-images/moneda164_B.jpg"
+      "front": "/coin-images/moneda64_A.jpg",
+      "back": "/coin-images/moneda64_B.jpg"
     },
     "country": "Austria",
     "year": 1960,
@@ -2197,10 +2197,10 @@
     "name": "Schilling"
   },
   {
-    "id": "165",
+    "id": 165,
     "images": {
-      "front": "/coin-images/moneda165_A.jpg",
-      "back": "/coin-images/moneda165_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1971,
@@ -2210,10 +2210,10 @@
     "name": "Centimes"
   },
   {
-    "id": "166",
+    "id": 166,
     "images": {
-      "front": "/coin-images/moneda166_A.jpg",
-      "back": "/coin-images/moneda166_B.jpg"
+      "front": "/coin-images/moneda47_A.jpg",
+      "back": "/coin-images/moneda47_B.jpg"
     },
     "country": "Francia",
     "year": 1986,
@@ -2223,10 +2223,10 @@
     "name": "Franc"
   },
   {
-    "id": "167",
+    "id": 167,
     "images": {
-      "front": "/coin-images/moneda167_A.jpg",
-      "back": "/coin-images/moneda167_B.jpg"
+      "front": "/coin-images/moneda45_A.jpg",
+      "back": "/coin-images/moneda45_B.jpg"
     },
     "country": "Francia",
     "year": 1978,
@@ -2236,10 +2236,10 @@
     "name": "Centimes"
   },
   {
-    "id": "168",
+    "id": 168,
     "images": {
-      "front": "/coin-images/moneda168_A.jpg",
-      "back": "/coin-images/moneda168_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1984,
@@ -2249,10 +2249,10 @@
     "name": "Centimes"
   },
   {
-    "id": "169",
+    "id": 169,
     "images": {
-      "front": "/coin-images/moneda169_A.jpg",
-      "back": "/coin-images/moneda169_B.jpg"
+      "front": "/coin-images/moneda2_A.jpg",
+      "back": "/coin-images/moneda2_B.jpg"
     },
     "country": "Alemania",
     "year": 1942,
@@ -2262,10 +2262,10 @@
     "name": "Reichspennig"
   },
   {
-    "id": "170",
+    "id": 170,
     "images": {
-      "front": "/coin-images/moneda170_A.jpg",
-      "back": "/coin-images/moneda170_B.jpg"
+      "front": "/coin-images/moneda74_A.jpg",
+      "back": "/coin-images/moneda74_B.jpg"
     },
     "country": "Noruega",
     "year": 1953,
@@ -2275,10 +2275,10 @@
     "name": "Ore"
   },
   {
-    "id": "171",
+    "id": 171,
     "images": {
-      "front": "/coin-images/moneda171_A.jpg",
-      "back": "/coin-images/moneda171_B.jpg"
+      "front": "/coin-images/moneda47_A.jpg",
+      "back": "/coin-images/moneda47_B.jpg"
     },
     "country": "Francia",
     "year": 1968,
@@ -2288,10 +2288,10 @@
     "name": "Franc"
   },
   {
-    "id": "172",
+    "id": 172,
     "images": {
-      "front": "/coin-images/moneda172_A.jpg",
-      "back": "/coin-images/moneda172_B.jpg"
+      "front": "/coin-images/moneda5_A.jpg",
+      "back": "/coin-images/moneda5_B.jpg"
     },
     "country": "Alemania",
     "year": 1971,
@@ -2301,10 +2301,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "173",
+    "id": 173,
     "images": {
-      "front": "/coin-images/moneda173_A.jpg",
-      "back": "/coin-images/moneda173_B.jpg"
+      "front": "/coin-images/moneda58_A.jpg",
+      "back": "/coin-images/moneda58_B.jpg"
     },
     "country": "Suiza",
     "year": 1960,
@@ -2314,10 +2314,10 @@
     "name": "Rappen"
   },
   {
-    "id": "174",
+    "id": 174,
     "images": {
-      "front": "/coin-images/moneda174_A.jpg",
-      "back": "/coin-images/moneda174_B.jpg"
+      "front": "/coin-images/moneda44_A.jpg",
+      "back": "/coin-images/moneda44_B.jpg"
     },
     "country": "Francia",
     "year": 1976,
@@ -2327,10 +2327,10 @@
     "name": "Centimes"
   },
   {
-    "id": "175",
+    "id": 175,
     "images": {
-      "front": "/coin-images/moneda175_A.jpg",
-      "back": "/coin-images/moneda175_B.jpg"
+      "front": "/coin-images/moneda36_A.jpg",
+      "back": "/coin-images/moneda36_B.jpg"
     },
     "country": "Portugal",
     "year": 1980,
@@ -2340,10 +2340,10 @@
     "name": "Escudos"
   },
   {
-    "id": "176",
+    "id": 176,
     "images": {
-      "front": "/coin-images/moneda176_A.jpg",
-      "back": "/coin-images/moneda176_B.jpg"
+      "front": "/coin-images/moneda1_A.jpg",
+      "back": "/coin-images/moneda1_B.jpg"
     },
     "country": "Alemania",
     "year": 1971,
@@ -2353,10 +2353,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "177",
+    "id": 177,
     "images": {
-      "front": "/coin-images/moneda177_A.jpg",
-      "back": "/coin-images/moneda177_B.jpg"
+      "front": "/coin-images/moneda45_A.jpg",
+      "back": "/coin-images/moneda45_B.jpg"
     },
     "country": "Francia",
     "year": 1967,
@@ -2366,10 +2366,10 @@
     "name": "Centimes"
   },
   {
-    "id": "178",
+    "id": 178,
     "images": {
-      "front": "/coin-images/moneda178_A.jpg",
-      "back": "/coin-images/moneda178_B.jpg"
+      "front": "/coin-images/moneda45_A.jpg",
+      "back": "/coin-images/moneda45_B.jpg"
     },
     "country": "Francia",
     "year": 1977,
@@ -2379,10 +2379,10 @@
     "name": "Centimes"
   },
   {
-    "id": "179",
+    "id": 179,
     "images": {
-      "front": "/coin-images/moneda179_A.jpg",
-      "back": "/coin-images/moneda179_B.jpg"
+      "front": "/coin-images/moneda5_A.jpg",
+      "back": "/coin-images/moneda5_B.jpg"
     },
     "country": "Alemania",
     "year": 1993,
@@ -2392,10 +2392,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "180",
+    "id": 180,
     "images": {
-      "front": "/coin-images/moneda180_A.jpg",
-      "back": "/coin-images/moneda180_B.jpg"
+      "front": "/coin-images/moneda1_A.jpg",
+      "back": "/coin-images/moneda1_B.jpg"
     },
     "country": "Alemania",
     "year": 1978,
@@ -2405,10 +2405,10 @@
     "name": "Pfenning"
   },
   {
-    "id": "181",
+    "id": 181,
     "images": {
-      "front": "/coin-images/moneda181_A.jpg",
-      "back": "/coin-images/moneda181_B.jpg"
+      "front": "/coin-images/moneda9_A.jpg",
+      "back": "/coin-images/moneda9_B.jpg"
     },
     "country": "Alemania",
     "year": 1991,
@@ -2418,10 +2418,10 @@
     "name": "Mark"
   },
   {
-    "id": "182",
+    "id": 182,
     "images": {
-      "front": "/coin-images/moneda182_A.jpg",
-      "back": "/coin-images/moneda182_B.jpg"
+      "front": "/coin-images/moneda10_A.jpg",
+      "back": "/coin-images/moneda10_B.jpg"
     },
     "country": "Alemania",
     "year": 1950,
@@ -2431,7 +2431,7 @@
     "name": "Pfenning"
   },
   {
-    "id": "183",
+    "id": 183,
     "images": {
       "front": "/coin-images/moneda183_A.jpg",
       "back": "/coin-images/moneda183_B.jpg"
@@ -2444,7 +2444,7 @@
     "name": "Céntimos de Escudo"
   },
   {
-    "id": "184",
+    "id": 184,
     "images": {
       "front": "/coin-images/moneda184_A.jpg",
       "back": "/coin-images/moneda184_B.jpg"
@@ -2457,7 +2457,7 @@
     "name": "Céntimos"
   },
   {
-    "id": "185",
+    "id": 185,
     "images": {
       "front": "/coin-images/moneda185_A.jpg",
       "back": "/coin-images/moneda185_B.jpg"
@@ -2470,7 +2470,7 @@
     "name": "Pesetas"
   },
   {
-    "id": "186",
+    "id": 186,
     "images": {
       "front": "/coin-images/moneda186_A.jpg",
       "back": "/coin-images/moneda186_B.jpg"
@@ -2483,7 +2483,7 @@
     "name": "Céntimos"
   },
   {
-    "id": "187",
+    "id": 187,
     "images": {
       "front": "/coin-images/moneda187_A.jpg",
       "back": "/coin-images/moneda187_B.jpg"
@@ -2496,7 +2496,7 @@
     "name": "Céntimos"
   },
   {
-    "id": "188",
+    "id": 188,
     "images": {
       "front": "/coin-images/moneda188_A.jpg",
       "back": "/coin-images/moneda188_B.jpg"
@@ -2509,7 +2509,7 @@
     "name": "Peseta"
   },
   {
-    "id": "189",
+    "id": 189,
     "images": {
       "front": "/coin-images/moneda189_A.jpg",
       "back": "/coin-images/moneda189_B.jpg"
@@ -2522,7 +2522,7 @@
     "name": "Pesetas"
   },
   {
-    "id": "190",
+    "id": 190,
     "images": {
       "front": "/coin-images/moneda190_A.jpg",
       "back": "/coin-images/moneda190_B.jpg"
@@ -2535,7 +2535,7 @@
     "name": "Pesetas"
   },
   {
-    "id": "191",
+    "id": 191,
     "images": {
       "front": "/coin-images/moneda191_A.jpg",
       "back": "/coin-images/moneda191_B.jpg"
