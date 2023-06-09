@@ -57,6 +57,9 @@ const parseCSV = async () => {
           coin.value = parseInt(values[index], 10);
         case "otros":
           coin.other = values[index];
+        case "referencia":
+          coin.parent = values[index];
+          break;
         default:
           //coin[header] = values[index];
           break;

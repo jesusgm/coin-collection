@@ -50,6 +50,7 @@ function Coin({
       <span className="absolute top-2">
         {value} {name}
       </span>
+      <span>{id}</span>
       <span className="absolute bottom-10">{year}</span>
       <span className="absolute bottom-2">{country}</span>
     </li>

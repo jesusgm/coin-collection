@@ -2,11 +2,6 @@ import CoinList from "@/components/CoinList";
 import YearRangeFilter from "@/components/filters/YearRangeFilter";
 import { CoinType, YearRange } from "@/types/index.types";
 
-// import coinsJson from "@/data/coins.json";
-// import yearsJson from "@/data/years.json";
-// import countriesJson from "@/data/countries.json";
-
-import { buildYearRanges } from "@/helpers/years";
 import CountryFilter from "@/components/filters/CountryFilter";
 
 export default async function Home({
@@ -31,10 +26,6 @@ export default async function Home({
   if (countryFilter?.length > 0) {
     apiParams.append("country", countryFilter.join(","));
   }
-
-  console.log(
-    `${process.env.NEXT_PUBLIC_API_PATH}/coins?${apiParams.toString()}`
-  );
 
   const coinsRes = await fetch(
     `${process.env.NEXT_PUBLIC_API_PATH}/coins?${apiParams.toString()}`
